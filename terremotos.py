@@ -1,19 +1,28 @@
-import requests
-import geopy.distance
+import requests # type: ignore
+import geopy.distance # type: ignore
+from typing import Any, Dict, Union
+from dotenv import load_dotenv
+import os
 
-def respuesta_api() -> dict:
+# Load environment variable from .env file if present.
+load_dotenv()
+
+# Get API URL
+API_URL = os.getenv("API_URL")
+
+def respuesta_api() ->  Union[Dict[str, Dict[str, Any]], None]:
     """llamar a la api de terremotos
 
     Returns:
         dict: un archivo json con todos los terremotos
     """
-    api_url: str = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
-    response = requests.get(api_url)
-    if response.status_code!=200:
+    # api_url: str = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson" # type: ignore
+    response = requests.get(API_URL)
+    if response.status_code != 200:
         return None
     return response.json().get("features")
- 
-def filtrar_terremotos(terremotos:dict) -> dict:
+
+def filtrar_terremotos(terremotos: dict) -> dict:
     """funcion para filtrar la respuesta de la api, retorna únicamente título y coordenada
 
     Args:
