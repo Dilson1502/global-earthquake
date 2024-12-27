@@ -2618,7 +2618,7 @@
         ]
     },
     "tx2024zipg": {
-        "title": "M 1.6 - western Texas",
+        "title": "M 1.6 - 57 km NW of Toyah, Texas",
         "coordinates": [
             31.643,
             -104.268
@@ -54075,10 +54075,10 @@
         ]
     },
     "us7000nw1c": {
-        "title": "M 5.4 - 34 km SE of Masjed Soleymān, Iran",
+        "title": "M 5.4 - 28 km SE of Masjed Soleymān, Iran",
         "coordinates": [
-            31.6853,
-            49.5102
+            31.764,
+            49.5294
         ]
     },
     "nc75095351": {
@@ -56671,11 +56671,11 @@
             -158.1949
         ]
     },
-    "av93389058": {
-        "title": "M 0.9 - 83 km NNW of Karluk, Alaska",
+    "ak024fkpn1v1": {
+        "title": "M 0.7 - 82 km NNW of Karluk, Alaska",
         "coordinates": [
-            58.26967,
-            -154.93667
+            58.2675,
+            -154.9417
         ]
     },
     "ci40993272": {
@@ -72426,13 +72426,6 @@
         "coordinates": [
             38.79284,
             -122.77866
-        ]
-    },
-    "us7000null": {
-        "title": "M 4.1 - 151 km W of Puerto, Chile",
-        "coordinates": [
-            -20.0452,
-            -71.5935
         ]
     }
 }
