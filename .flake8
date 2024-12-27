@@ -1,0 +1,8 @@
+;  flake 8 configuration for max line length. Avoids unexpected errors.
+; flake8 does not natively support pyproject.toml file yet. You can install Flake8-pyproject to add this functionality.
+; Place this at the root directory level, which is the top level of your current directory.
+[flake8]
+max-line-length = 120
+
+; Import order style
+import-order-style = smarkets
