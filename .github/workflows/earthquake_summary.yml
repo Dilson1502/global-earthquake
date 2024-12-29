@@ -19,6 +19,7 @@ jobs:
       - name: Set up env variables
         env:
           API_URL: ${{ vars.API_URL}}
+        run: echo "The URL is $API_URL"
 
       - name: Setup Python
         uses: actions/setup-python@v5
