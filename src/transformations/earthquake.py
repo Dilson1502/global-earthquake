@@ -3,11 +3,11 @@ import geopy.distance  # type: ignore
 import os
 
 from typing import Any, Dict, Union, List, Tuple
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
 
 # Load environment variable from .env file if present.
-load_dotenv()
+# load_dotenv()
 
 # Get API URL
 API_URL = os.getenv("API_URL")
