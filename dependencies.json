@@ -211,20 +211,6 @@
         ]
     },
     {
-        "key": "global-earthquake",
-        "package_name": "global_earthquake",
-        "installed_version": "0.1.0",
-        "required_version": "0.1.0",
-        "dependencies": []
-    },
-    {
-        "key": "global-earthquake-app",
-        "package_name": "global_earthquake_app",
-        "installed_version": "0.1.0",
-        "required_version": "0.1.0",
-        "dependencies": []
-    },
-    {
         "key": "mando",
         "package_name": "mando",
         "installed_version": "0.7.1",
@@ -394,8 +380,8 @@
     {
         "key": "setuptools",
         "package_name": "setuptools",
-        "installed_version": "75.6.0",
-        "required_version": "75.6.0",
+        "installed_version": "58.1.0",
+        "required_version": "58.1.0",
         "dependencies": []
     },
     {
@@ -426,12 +412,5 @@
                 "dependencies": []
             }
         ]
-    },
-    {
-        "key": "wheel",
-        "package_name": "wheel",
-        "installed_version": "0.45.1",
-        "required_version": "0.45.1",
-        "dependencies": []
     }
 ]
