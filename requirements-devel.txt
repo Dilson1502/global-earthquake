@@ -10,8 +10,6 @@ fastapi==0.115.6
 flake8==7.1.1
 geographiclib==2.0
 geopy==2.4.1
--e git+ssh://git@github.com/Dilson1502/global-earthquake.git@88500e06570aaf40209924094c73d1b68b1fa79c#egg=global_earthquake
--e git+ssh://git@github.com/Dilson1502/global-earthquake.git@88500e06570aaf40209924094c73d1b68b1fa79c#egg=global_earthquake_app
 h11==0.14.0
 idna==3.10
 iniconfig==2.0.0
