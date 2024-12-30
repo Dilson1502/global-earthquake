@@ -8924,6 +8924,13 @@
             -104.449
         ]
     },
+    "us6000pfhz": {
+        "title": "M 4.4 - 84 km WNW of San Antonio de los Cobres, Argentina",
+        "coordinates": [
+            -24.0588,
+            -67.1354
+        ]
+    },
     "nc75107491": {
         "title": "M 0.9 - 8 km NW of The Geysers, CA",
         "coordinates": [
@@ -72041,20 +72048,6 @@
         "coordinates": [
             63.2616,
             -149.5721
-        ]
-    },
-    "ak024fe1yk28": {
-        "title": "M 1.7 - 45 km SSE of Cantwell, Alaska",
-        "coordinates": [
-            62.9976,
-            -148.7553
-        ]
-    },
-    "uu80088301": {
-        "title": "M 1.3 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.506,
-            -112.88883
         ]
     }
 }
