@@ -1,23 +1,1381 @@
 {
-    "ci40829623": {
-        "title": "M 1.6 - 7 km S of Borrego Springs, CA",
+    "pr71469693": {
+        "title": "M 2.6 - 6 km SSW of Guánica, Puerto Rico",
         "coordinates": [
-            33.19383,
-            -116.38817
+            17.91983,
+            -66.94117
+        ]
+    },
+    "ak024grnwi0y": {
+        "title": "M 1.9 - 27 km SE of Susitna North, Alaska",
+        "coordinates": [
+            61.9836,
+            -149.489
+        ]
+    },
+    "nc75109511": {
+        "title": "M 2.1 - 5 km NNE of Larkfield-Wikiup, CA",
+        "coordinates": [
+            38.55283,
+            -122.73634
+        ]
+    },
+    "tx2024zpdn": {
+        "title": "M 1.6 - 34 km NW of Toyah, Texas",
+        "coordinates": [
+            31.564,
+            -104.017
+        ]
+    },
+    "nc75109506": {
+        "title": "M 0.7 - 1 km E of The Geysers, CA",
+        "coordinates": [
+            38.78133,
+            -122.74316
+        ]
+    },
+    "ci40829943": {
+        "title": "M 1.0 - 7 km S of Redlands, CA",
+        "coordinates": [
+            33.9925,
+            -117.19283
+        ]
+    },
+    "nc75109501": {
+        "title": "M 1.2 - 8 km NNW of The Geysers, CA",
+        "coordinates": [
+            38.82883,
+            -122.8125
+        ]
+    },
+    "ak024grnhpc5": {
+        "title": "M 3.0 - 52 km NNE of Kobuk, Alaska",
+        "coordinates": [
+            67.3295,
+            -156.3574
+        ]
+    },
+    "nc75109496": {
+        "title": "M 1.1 - 3 km NW of The Geysers, CA",
+        "coordinates": [
+            38.7945,
+            -122.78333
+        ]
+    },
+    "ci40829935": {
+        "title": "M 1.0 - 14 km NNE of Pine Valley, CA",
+        "coordinates": [
+            32.92767,
+            -116.45183
+        ]
+    },
+    "nn00890848": {
+        "title": "M 1.5 - 15 km NE of Yerington, Nevada",
+        "coordinates": [
+            39.0711,
+            -119.0222
+        ]
+    },
+    "ci40829927": {
+        "title": "M 1.7 - 5 km NNW of Boron, CA",
+        "coordinates": [
+            35.04283,
+            -117.661
+        ]
+    },
+    "ak024grn9ze2": {
+        "title": "M 1.9 - 68 km WNW of Ninilchik, Alaska",
+        "coordinates": [
+            60.2741,
+            -152.8176
+        ]
+    },
+    "ak024grn9yuf": {
+        "title": "M 1.8 - 71 km E of Port Alsworth, Alaska",
+        "coordinates": [
+            60.2244,
+            -153.0186
+        ]
+    },
+    "nc75109476": {
+        "title": "M 0.7 - 3 km W of Cobb, CA",
+        "coordinates": [
+            38.82017,
+            -122.7615
+        ]
+    },
+    "nc75109471": {
+        "title": "M 1.1 - 7 km NW of The Geysers, CA",
+        "coordinates": [
+            38.81317,
+            -122.81866
+        ]
+    },
+    "ak024grn6c9q": {
+        "title": "M 1.8 - 12 km ENE of Fox, Alaska",
+        "coordinates": [
+            64.997,
+            -147.3798
+        ]
+    },
+    "hv74579792": {
+        "title": "M 1.8 - 6 km SSW of Leilani Estates, Hawaii",
+        "coordinates": [
+            19.419,
+            -154.9425
+        ]
+    },
+    "ak024gqdkt3f": {
+        "title": "M 2.2 - 15 km W of Ninilchik, Alaska",
+        "coordinates": [
+            60.0633,
+            -151.9374
+        ]
+    },
+    "hv74579782": {
+        "title": "M 2.6 - 11 km SW of Laupāhoehoe, Hawaii",
+        "coordinates": [
+            19.9115,
+            -155.31284
+        ]
+    },
+    "ci40829911": {
+        "title": "M 1.3 - 3 km SE of Lake Henshaw, CA",
+        "coordinates": [
+            33.22317,
+            -116.74133
+        ]
+    },
+    "nc75109441": {
+        "title": "M 1.3 - 7 km NW of The Geysers, CA",
+        "coordinates": [
+            38.8135,
+            -122.8165
+        ]
+    },
+    "us6000pgct": {
+        "title": "M 5.1 - 52 km SSE of Debre Sīna, Ethiopia",
+        "coordinates": [
+            9.4374,
+            39.9994
+        ]
+    },
+    "nc75109426": {
+        "title": "M 1.9 - 9 km S of San Juan Bautista, CA",
+        "coordinates": [
+            36.7655,
+            -121.503
+        ]
+    },
+    "ak024gqcrm8g": {
+        "title": "M 2.1 - 7 km NW of Tanaina, Alaska",
+        "coordinates": [
+            61.6816,
+            -149.5115
+        ]
+    },
+    "ak024gqcffhz": {
+        "title": "M 1.9 - 11 km W of Point Possession, Alaska",
+        "coordinates": [
+            60.9161,
+            -150.8959
+        ]
+    },
+    "ak024gqcdj5c": {
+        "title": "M 2.2 - 24 km NNW of Fishhook, Alaska",
+        "coordinates": [
+            61.9394,
+            -149.4653
+        ]
+    },
+    "ci40829903": {
+        "title": "M 0.8 - 16 km SSW of Borrego Springs, CA",
+        "coordinates": [
+            33.12067,
+            -116.4355
+        ]
+    },
+    "hv74579677": {
+        "title": "M 2.4 - 2 km SE of Pāhala, Hawaii",
+        "coordinates": [
+            19.18633,
+            -155.46217
+        ]
+    },
+    "ak024gqcbbfo": {
+        "title": "M 2.1 - 6 km SSW of Willow, Alaska",
+        "coordinates": [
+            61.6984,
+            -150.1027
+        ]
+    },
+    "uw62060867": {
+        "title": "M 2.7 - 27 km WNW of Yachats, Oregon",
+        "coordinates": [
+            44.39967,
+            -124.42433
+        ]
+    },
+    "nn00890836": {
+        "title": "M 2.0 - 34 km NW of Silver Peak, Nevada",
+        "coordinates": [
+            37.9646,
+            -117.9266
+        ]
+    },
+    "nc75109416": {
+        "title": "M 2.7 - 19 km W of Petrolia, CA",
+        "coordinates": [
+            40.271,
+            -124.49983
+        ]
+    },
+    "nc75109411": {
+        "title": "M 2.1 - 20 km E of Yosemite Valley, CA",
+        "coordinates": [
+            37.74083,
+            -119.3455
+        ]
+    },
+    "ci40829895": {
+        "title": "M 2.4 - 28 km SW of Dana Point, CA",
+        "coordinates": [
+            33.328,
+            -117.94317
+        ]
+    },
+    "nc75109406": {
+        "title": "M 0.7 - 5 km WNW of Cobb, CA",
+        "coordinates": [
+            38.83533,
+            -122.7735
+        ]
+    },
+    "us6000pgc6": {
+        "title": "M 4.8 - 62 km SW of Santiago Tepextla, Mexico",
+        "coordinates": [
+            15.9366,
+            -98.8533
+        ]
+    },
+    "uw62060857": {
+        "title": "M 0.8 - 13 km ESE of Buckley, Washington",
+        "coordinates": [
+            47.11883,
+            -121.85933
+        ]
+    },
+    "nn00890834": {
+        "title": "M 0.9 - 45 km S of Goldfield, Nevada",
+        "coordinates": [
+            37.3027,
+            -117.2202
+        ]
+    },
+    "nn00890830": {
+        "title": "M 1.8 - 39 km S of Goldfield, Nevada",
+        "coordinates": [
+            37.3515,
+            -117.2045
+        ]
+    },
+    "ci40829887": {
+        "title": "M 1.1 - 8 km ESE of Valle Vista, CA",
+        "coordinates": [
+            33.70717,
+            -116.8175
+        ]
+    },
+    "us6000pgc4": {
+        "title": "M 4.4 - 51 km NNE of Bilajer, Azerbaijan",
+        "coordinates": [
+            41.007,
+            50.2267
+        ]
+    },
+    "nc75109396": {
+        "title": "M 0.6 - 9 km WNW of Cobb, CA",
+        "coordinates": [
+            38.83883,
+            -122.82
+        ]
+    },
+    "ci40829879": {
+        "title": "M 1.2 - 7 km NW of Fontana, CA",
+        "coordinates": [
+            34.14833,
+            -117.49917
+        ]
+    },
+    "us6000pgc2": {
+        "title": "M 4.7 - 21 km ENE of Pizitou, Taiwan",
+        "coordinates": [
+            23.5333,
+            120.6525
+        ]
+    },
+    "nc75109386": {
+        "title": "M 0.8 - 8 km WNW of Cobb, CA",
+        "coordinates": [
+            38.8345,
+            -122.81533
+        ]
+    },
+    "ak024gqb7j23": {
+        "title": "M 1.4 - 4 km ESE of Tatitlek, Alaska",
+        "coordinates": [
+            60.8426,
+            -146.6032
+        ]
+    },
+    "nn00890826": {
+        "title": "M 1.3 - 21 km N of Dyer, Nevada",
+        "coordinates": [
+            37.8539,
+            -118.0236
+        ]
+    },
+    "ak024gqb2re4": {
+        "title": "M 1.8 - 53 km NNW of Lake Minchumina, Alaska",
+        "coordinates": [
+            64.343,
+            -152.6367
+        ]
+    },
+    "ci40829871": {
+        "title": "M 1.8 - 8 km SE of Valle Vista, CA",
+        "coordinates": [
+            33.70133,
+            -116.824
+        ]
+    },
+    "nn00890824": {
+        "title": "M 1.2 - 28 km N of Dyer, Nevada",
+        "coordinates": [
+            37.9237,
+            -118.0714
+        ]
+    },
+    "ci40829855": {
+        "title": "M 0.5 - 7 km NW of Aguanga, CA",
+        "coordinates": [
+            33.4925,
+            -116.906
+        ]
+    },
+    "nn00890820": {
+        "title": "M 1.9 - 26 km N of Dyer, Nevada",
+        "coordinates": [
+            37.9084,
+            -118.0454
+        ]
+    },
+    "ci40829847": {
+        "title": "M 0.9 - 3 km S of Mentone, CA",
+        "coordinates": [
+            34.04483,
+            -117.134
+        ]
+    },
+    "ci40829839": {
+        "title": "M 1.0 - 7 km WSW of Alpine, CA",
+        "coordinates": [
+            32.8155,
+            -116.83683
+        ]
+    },
+    "nc75109376": {
+        "title": "M 1.5 - 10 km N of Boulder Creek, CA",
+        "coordinates": [
+            37.2185,
+            -122.14333
+        ]
+    },
+    "nn00890819": {
+        "title": "M 1.5 - 28 km N of Dyer, Nevada",
+        "coordinates": [
+            37.925,
+            -118.0727
+        ]
+    },
+    "nn00890817": {
+        "title": "M -0.1 - 45 km ESE of Beatty, Nevada",
+        "coordinates": [
+            36.7209,
+            -116.3002
+        ]
+    },
+    "ak024gqai0b6": {
+        "title": "M 1.5 - 51 km E of Cantwell, Alaska",
+        "coordinates": [
+            63.3558,
+            -147.927
+        ]
+    },
+    "nn00890814": {
+        "title": "M 2.7 - 27 km N of Dyer, Nevada",
+        "coordinates": [
+            37.9127,
+            -118.0388
+        ]
+    },
+    "ci40829831": {
+        "title": "M 1.2 - 4 km S of Banning, CA",
+        "coordinates": [
+            33.88783,
+            -116.87867
+        ]
+    },
+    "nc75109351": {
+        "title": "M 1.0 - 4 km NNW of The Geysers, CA",
+        "coordinates": [
+            38.80917,
+            -122.781
+        ]
+    },
+    "ak024gqa01b3": {
+        "title": "M 1.8 - 16 km NNW of Aleneva, Alaska",
+        "coordinates": [
+            58.1957,
+            -153.0399
+        ]
+    },
+    "us6000pgbm": {
+        "title": "M 4.3 - 73 km N of Pārūn, Afghanistan",
+        "coordinates": [
+            36.0792,
+            70.8359
+        ]
+    },
+    "nc75109346": {
+        "title": "M 1.1 - 10 km WNW of Cobb, CA",
+        "coordinates": [
+            38.8445,
+            -122.8315
+        ]
+    },
+    "us6000pgbn": {
+        "title": "M 4.3 - 24 km NW of Āwash, Ethiopia",
+        "coordinates": [
+            9.1378,
+            40.0074
+        ]
+    },
+    "us6000pgbj": {
+        "title": "M 4.9 - 14 km N of Āwash, Ethiopia",
+        "coordinates": [
+            9.1111,
+            40.1732
+        ]
+    },
+    "ak024gq9rnlp": {
+        "title": "M 1.7 - 37 km WSW of Petersville, Alaska",
+        "coordinates": [
+            62.3322,
+            -151.3929
+        ]
+    },
+    "ak024gq9hah6": {
+        "title": "M 1.9 - 50 km ENE of Pedro Bay, Alaska",
+        "coordinates": [
+            59.8971,
+            -153.2341
+        ]
+    },
+    "us6000pgbh": {
+        "title": "M 4.0 - 20 km WSW of Ashkāsham, Afghanistan",
+        "coordinates": [
+            36.6231,
+            71.3135
+        ]
+    },
+    "nc75109341": {
+        "title": "M 1.6 - 4 km NNW of The Geysers, CA",
+        "coordinates": [
+            38.80433,
+            -122.78033
+        ]
+    },
+    "us6000pgbg": {
+        "title": "M 4.4 - 9 km NNE of Āwash, Ethiopia",
+        "coordinates": [
+            9.0668,
+            40.1933
+        ]
+    },
+    "nn00890811": {
+        "title": "M 1.5 - 21 km NNE of Yerington, Nevada",
+        "coordinates": [
+            39.1599,
+            -119.0569
+        ]
+    },
+    "hv74579492": {
+        "title": "M 2.0 - 9 km ENE of Pāhala, Hawaii",
+        "coordinates": [
+            19.24983,
+            -155.40167
+        ]
+    },
+    "pr71469683": {
+        "title": "M 2.9 - 4 km SW of Guánica, Puerto Rico",
+        "coordinates": [
+            17.94617,
+            -66.9445
+        ]
+    },
+    "pr71469678": {
+        "title": "M 2.4 - 0 km WSW of Indios, Puerto Rico",
+        "coordinates": [
+            17.98967,
+            -66.82733
+        ]
+    },
+    "ak024gq8rehn": {
+        "title": "M 1.4 - 17 km SW of Anchorage, Alaska",
+        "coordinates": [
+            61.1116,
+            -150.1422
+        ]
+    },
+    "ak024gq8pwqh": {
+        "title": "M 1.7 - 65 km W of Tyonek, Alaska",
+        "coordinates": [
+            61.1059,
+            -152.3528
+        ]
+    },
+    "us6000pgb5": {
+        "title": "M 4.5 - 68 km SSE of Hualien City, Taiwan",
+        "coordinates": [
+            23.398,
+            121.8325
+        ]
+    },
+    "ci40829815": {
+        "title": "M 0.7 - 5 km SW of Palomar Observatory, CA",
+        "coordinates": [
+            33.32033,
+            -116.8975
+        ]
+    },
+    "ak024gq8lz1r": {
+        "title": "M 1.6 - 50 km WNW of Skwentna, Alaska",
+        "coordinates": [
+            62.2149,
+            -152.2357
+        ]
+    },
+    "ak024gq8lk5m": {
+        "title": "M 1.4 - 57 km NW of Beluga, Alaska",
+        "coordinates": [
+            61.4485,
+            -151.9521
+        ]
+    },
+    "nn00890809": {
+        "title": "M 0.3 - 46 km ESE of Beatty, Nevada",
+        "coordinates": [
+            36.7184,
+            -116.2955
+        ]
+    },
+    "nc75109316": {
+        "title": "M 1.1 - 8 km NNW of The Geysers, CA",
+        "coordinates": [
+            38.83433,
+            -122.818
+        ]
+    },
+    "ci40829799": {
+        "title": "M 0.7 - 18 km ESE of Anza, CA",
+        "coordinates": [
+            33.499,
+            -116.49033
+        ]
+    },
+    "nn00890805": {
+        "title": "M 1.0 - 39 km S of Goldfield, Nevada",
+        "coordinates": [
+            37.3536,
+            -117.2079
+        ]
+    },
+    "us6000pgaw": {
+        "title": "M 2.8 - 236 km SE of Chiniak, Alaska",
+        "coordinates": [
+            56.2538,
+            -149.3011
+        ]
+    },
+    "nn00890804": {
+        "title": "M 0.1 - 46 km ESE of Beatty, Nevada",
+        "coordinates": [
+            36.7176,
+            -116.298
+        ]
+    },
+    "nc75109311": {
+        "title": "M 2.7 - 18 km SW of Petrolia, CA",
+        "coordinates": [
+            40.1805,
+            -124.37566
+        ]
+    },
+    "ak024gq82cvk": {
+        "title": "M 2.1 - 65 km WNW of Nanwalek, Alaska",
+        "coordinates": [
+            59.534,
+            -153.0231
+        ]
+    },
+    "ak024gq81p8b": {
+        "title": "M 1.4 - 11 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.0891,
+            -151.3388
+        ]
+    },
+    "pr71469663": {
+        "title": "M 3.4 - 45 km NNE of Otra Banda, Dominican Republic",
+        "coordinates": [
+            19.00167,
+            -68.44433
+        ]
+    },
+    "nn00890802": {
+        "title": "M 2.0 - 21 km NNE of Yerington, Nevada",
+        "coordinates": [
+            39.1577,
+            -119.0477
+        ]
+    },
+    "ci40829791": {
+        "title": "M 1.0 - 4 km E of Palomar Observatory, CA",
+        "coordinates": [
+            33.36133,
+            -116.82483
+        ]
+    },
+    "ak024gq7ywbu": {
+        "title": "M 1.3 - 24 km W of Anchorage, Alaska",
+        "coordinates": [
+            61.2203,
+            -150.3529
+        ]
+    },
+    "tx2024zohg": {
+        "title": "M 2.2 - 66 km SSW of Whites City, New Mexico",
+        "coordinates": [
+            31.589,
+            -104.514
+        ]
+    },
+    "ci40829783": {
+        "title": "M 2.7 - 14 km N of Borrego Springs, CA",
+        "coordinates": [
+            33.38483,
+            -116.3935
+        ]
+    },
+    "nc75109296": {
+        "title": "M 1.1 - 3 km NNW of The Geysers, CA",
+        "coordinates": [
+            38.80083,
+            -122.77333
+        ]
+    },
+    "ci40829775": {
+        "title": "M 1.4 - 8 km ENE of Moreno Valley, CA",
+        "coordinates": [
+            33.96433,
+            -117.15567
+        ]
+    },
+    "us6000pgag": {
+        "title": "M 4.4 - 197 km SSE of Miyakojima, Japan",
+        "coordinates": [
+            23.3049,
+            126.3837
+        ]
+    },
+    "tx2024zofv": {
+        "title": "M 1.6 - 46 km WNW of Toyah, Texas",
+        "coordinates": [
+            31.546,
+            -104.202
+        ]
+    },
+    "ak024gq7fsz0": {
+        "title": "M 1.2 - 54 km WNW of Happy Valley, Alaska",
+        "coordinates": [
+            60.126,
+            -152.6507
+        ]
+    },
+    "ak024gq7f7pb": {
+        "title": "M 1.3 - 54 km NNW of Eureka Roadhouse, Alaska",
+        "coordinates": [
+            62.3642,
+            -147.6734
+        ]
+    },
+    "nn00890800": {
+        "title": "M 1.1 - 62 km SSW of Goldfield, Nevada",
+        "coordinates": [
+            37.1614,
+            -117.3883
+        ]
+    },
+    "us6000pgab": {
+        "title": "M 3.7 - 57 km NNW of Saint-Boniface, Canada",
+        "coordinates": [
+            46.9815,
+            -76.248
+        ]
+    },
+    "nc75109291": {
+        "title": "M 1.4 - 8 km  of Hollister, CA",
+        "coordinates": [
+            36.92133,
+            -121.41866
+        ]
+    },
+    "nc75109286": {
+        "title": "M 1.1 - 5 km NNW of The Geysers, CA",
+        "coordinates": [
+            38.81767,
+            -122.78817
+        ]
+    },
+    "ok2024zoem": {
+        "title": "M 1.5 - 8 km SW of El Reno, Oklahoma",
+        "coordinates": [
+            35.48817,
+            -98.03517
+        ]
+    },
+    "ak024gq6xud3": {
+        "title": "M 1.4 - 15 km WSW of Beaver, Alaska",
+        "coordinates": [
+            66.3029,
+            -147.7046
+        ]
+    },
+    "ak024gq6widh": {
+        "title": "M 1.4 - 17 km NNW of Fox River, Alaska",
+        "coordinates": [
+            60.0091,
+            -151.0468
+        ]
+    },
+    "ak024gq6vh5h": {
+        "title": "M 1.7 - 24 km ESE of Susitna North, Alaska",
+        "coordinates": [
+            62.0773,
+            -149.4144
+        ]
+    },
+    "ak024gq6v0n2": {
+        "title": "M 1.2 - 48 km NW of Ninilchik, Alaska",
+        "coordinates": [
+            60.3468,
+            -152.3038
+        ]
+    },
+    "nc75109276": {
+        "title": "M 1.2 - 7 km NW of The Geysers, CA",
+        "coordinates": [
+            38.81583,
+            -122.82433
+        ]
+    },
+    "ci40829767": {
+        "title": "M 0.9 - 8 km WSW of Alpine, CA",
+        "coordinates": [
+            32.81183,
+            -116.842
+        ]
+    },
+    "ak024gq6slyq": {
+        "title": "M 2.1 - 59 km W of Anchor Point, Alaska",
+        "coordinates": [
+            59.7815,
+            -152.8884
+        ]
+    },
+    "ci40829759": {
+        "title": "M 1.9 - 15 km SSE of Bodfish, CA",
+        "coordinates": [
+            35.4575,
+            -118.43816
+        ]
+    },
+    "ci40829751": {
+        "title": "M 0.9 - 3 km S of Mentone, CA",
+        "coordinates": [
+            34.0465,
+            -117.13333
+        ]
+    },
+    "us6000pg9z": {
+        "title": "M 2.9 - 1 km SSE of Hicksville, Ohio",
+        "coordinates": [
+            41.2803,
+            -84.7567
+        ]
+    },
+    "tx2024zocr": {
+        "title": "M 1.0 - 35 km WSW of Ackerly, Texas",
+        "coordinates": [
+            32.4,
+            -102.062
+        ]
+    },
+    "nc75109266": {
+        "title": "M 3.7 - 104 km WNW of Petrolia, CA",
+        "coordinates": [
+            40.46467,
+            -125.50433
+        ]
+    },
+    "mb90069738": {
+        "title": "M 1.2 - 31 km SSW of Dillon, Montana",
+        "coordinates": [
+            44.94883,
+            -112.76183
+        ]
+    },
+    "ci40829743": {
+        "title": "M 0.9 - 11 km W of Palm Springs, CA",
+        "coordinates": [
+            33.84017,
+            -116.65083
+        ]
+    },
+    "nn00890797": {
+        "title": "M 0.6 - 34 km S of Goldfield, Nevada",
+        "coordinates": [
+            37.3953,
+            -117.2508
+        ]
+    },
+    "tx2024zobg": {
+        "title": "M 0.9 - 35 km WSW of Ackerly, Texas",
+        "coordinates": [
+            32.403,
+            -102.065
+        ]
+    },
+    "tx2024zoay": {
+        "title": "M 1.3 - 35 km WSW of Ackerly, Texas",
+        "coordinates": [
+            32.4,
+            -102.065
+        ]
+    },
+    "ak024gq5u577": {
+        "title": "M 3.5 - 186 km E of Atka, Alaska",
+        "coordinates": [
+            52.0745,
+            -171.4777
+        ]
+    },
+    "pr71469653": {
+        "title": "M 2.2 - 6 km SSW of Guánica, Puerto Rico",
+        "coordinates": [
+            17.9205,
+            -66.94333
+        ]
+    },
+    "ak024gq5pepe": {
+        "title": "M 1.9 - 65 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.2614,
+            -152.2774
+        ]
+    },
+    "tx2024zoac": {
+        "title": "M 1.7 - 20 km E of Balmorhea, Texas",
+        "coordinates": [
+            30.973,
+            -103.532
+        ]
+    },
+    "ak024gq5omp4": {
+        "title": "M 1.7 - 43 km NW of Tatitlek, Alaska",
+        "coordinates": [
+            61.1582,
+            -147.2143
+        ]
+    },
+    "nc75109261": {
+        "title": "M 1.8 - 3 km NNW of The Geysers, CA",
+        "coordinates": [
+            38.80183,
+            -122.77817
+        ]
+    },
+    "pr71469643": {
+        "title": "M 2.2 - 4 km SW of Guánica, Puerto Rico",
+        "coordinates": [
+            17.94567,
+            -66.94433
+        ]
+    },
+    "ak024gq5lyml": {
+        "title": "M 1.5 - 56 km W of Anchor Point, Alaska",
+        "coordinates": [
+            59.8219,
+            -152.8376
+        ]
+    },
+    "ci40829735": {
+        "title": "M 0.8 - 4 km NW of Palomar Observatory, CA",
+        "coordinates": [
+            33.38267,
+            -116.8955
+        ]
+    },
+    "ci40829727": {
+        "title": "M 1.5 - 18 km ESE of Anza, CA",
+        "coordinates": [
+            33.46383,
+            -116.50917
+        ]
+    },
+    "nc75109256": {
+        "title": "M 1.1 - 2 km NW of The Geysers, CA",
+        "coordinates": [
+            38.791,
+            -122.77834
+        ]
+    },
+    "ak024gq4zhcv": {
+        "title": "M 1.6 - 5 km NNW of Point MacKenzie, Alaska",
+        "coordinates": [
+            61.4042,
+            -150.025
+        ]
+    },
+    "us6000pg99": {
+        "title": "M 4.4 - 81 km SE of Kuqa, China",
+        "coordinates": [
+            41.1313,
+            83.5166
+        ]
+    },
+    "ak024gq4pui8": {
+        "title": "M 2.0 - 33 km SW of Nanwalek, Alaska",
+        "coordinates": [
+            59.1382,
+            -152.3351
+        ]
+    },
+    "nc75109251": {
+        "title": "M 1.0 - 2 km  of The Geysers, CA",
+        "coordinates": [
+            38.79133,
+            -122.76167
+        ]
+    },
+    "tx2024znwp": {
+        "title": "M 1.7 - 36 km NNW of Toyah, Texas",
+        "coordinates": [
+            31.6,
+            -103.977
+        ]
+    },
+    "ci40829719": {
+        "title": "M 1.5 - 2 km ENE of Loma Linda, CA",
+        "coordinates": [
+            34.05517,
+            -117.24
+        ]
+    },
+    "nc75109241": {
+        "title": "M 1.4 - 9 km SW of Ridgemark, CA",
+        "coordinates": [
+            36.74783,
+            -121.42233
+        ]
+    },
+    "ak024gq4ggmm": {
+        "title": "M 1.4 - 21 km NNW of Valdez, Alaska",
+        "coordinates": [
+            61.2968,
+            -146.5528
+        ]
+    },
+    "pr71469638": {
+        "title": "M 3.1 - 80 km NNW of Charlotte Amalie, U.S. Virgin Islands",
+        "coordinates": [
+            19.03917,
+            -65.16183
+        ]
+    },
+    "nc75109236": {
+        "title": "M 1.3 - 8 km NNW of The Geysers, CA",
+        "coordinates": [
+            38.83133,
+            -122.81834
+        ]
+    },
+    "ak024gq4fdnb": {
+        "title": "M 2.2 - 12 km WNW of Fishhook, Alaska",
+        "coordinates": [
+            61.7843,
+            -149.4617
+        ]
+    },
+    "us6000pg94": {
+        "title": "M 4.5 - 9 km ESE of Palekastro, Greece",
+        "coordinates": [
+            35.1518,
+            26.3404
+        ]
+    },
+    "nc75109231": {
+        "title": "M 0.7 - 4 km W of Cobb, CA",
+        "coordinates": [
+            38.82067,
+            -122.76383
+        ]
+    },
+    "nc75109226": {
+        "title": "M 1.1 - 2 km ESE of The Geysers, CA",
+        "coordinates": [
+            38.77367,
+            -122.7395
+        ]
+    },
+    "us6000pg93": {
+        "title": "M 4.5 - 104 km SE of Adak, Alaska",
+        "coordinates": [
+            51.3469,
+            -175.3909
+        ]
+    },
+    "ak024gq3y8zz": {
+        "title": "M 2.1 - 54 km NE of Chase, Alaska",
+        "coordinates": [
+            62.7385,
+            -149.2459
+        ]
+    },
+    "nc75109221": {
+        "title": "M 1.1 - 17 km WSW of Toms Place, CA",
+        "coordinates": [
+            37.48633,
+            -118.85267
+        ]
+    },
+    "ak024gq3wneu": {
+        "title": "M 0.5 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.2795,
+            -152.2931
+        ]
+    },
+    "us6000pg9d": {
+        "title": "M 4.4 - 27 km NNW of Āwash, Ethiopia",
+        "coordinates": [
+            9.2182,
+            40.0833
+        ]
+    },
+    "nc75109211": {
+        "title": "M 2.2 - 13 km W of Petrolia, CA",
+        "coordinates": [
+            40.306,
+            -124.43283
+        ]
+    },
+    "ak024gq3uxrt": {
+        "title": "M 0.6 - 64 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.2937,
+            -152.251
+        ]
+    },
+    "ak024gq3tpdw": {
+        "title": "M 1.6 - 48 km ENE of Chase, Alaska",
+        "coordinates": [
+            62.5667,
+            -149.1868
+        ]
+    },
+    "ak024gq3hq1u": {
+        "title": "M 0.9 - 103 km NW of Yakutat, Alaska",
+        "coordinates": [
+            60.1074,
+            -141.1987
+        ]
+    },
+    "ci40829711": {
+        "title": "M 1.9 - 28 km N of Kernville, CA",
+        "coordinates": [
+            36.00333,
+            -118.4245
+        ]
+    },
+    "ci40829703": {
+        "title": "M 0.9 - 6 km WSW of Lytle Creek, CA",
+        "coordinates": [
+            34.23533,
+            -117.55517
+        ]
+    },
+    "ak024gq3ez7a": {
+        "title": "M 1.6 - 63 km ESE of Pedro Bay, Alaska",
+        "coordinates": [
+            59.5915,
+            -153.0534
+        ]
+    },
+    "ak024gq3e215": {
+        "title": "M 1.6 - 105 km W of Skwentna, Alaska",
+        "coordinates": [
+            62.1838,
+            -153.3672
+        ]
+    },
+    "ci40829695": {
+        "title": "M 1.0 - 6 km N of Running Springs, CA",
+        "coordinates": [
+            34.26067,
+            -117.11733
+        ]
+    },
+    "nc75109191": {
+        "title": "M 1.1 - 7 km NW of The Geysers, CA",
+        "coordinates": [
+            38.81367,
+            -122.82584
+        ]
+    },
+    "ci40829687": {
+        "title": "M 1.0 - 6 km N of Running Springs, CA",
+        "coordinates": [
+            34.26383,
+            -117.11583
+        ]
+    },
+    "us6000pg8r": {
+        "title": "M 4.2 - Mariana Islands region",
+        "coordinates": [
+            21.4355,
+            143.1019
+        ]
+    },
+    "ak024gq2w9nv": {
+        "title": "M 1.7 - 40 km NNE of Chenega, Alaska",
+        "coordinates": [
+            60.4013,
+            -147.748
+        ]
+    },
+    "ak024gq2tbct": {
+        "title": "M 1.3 - 15 km N of Susitna, Alaska",
+        "coordinates": [
+            61.682,
+            -150.5326
+        ]
+    },
+    "ak024gq2s1rc": {
+        "title": "M 1.5 - 70 km N of Petersville, Alaska",
+        "coordinates": [
+            63.1253,
+            -150.6181
+        ]
+    },
+    "ak024gq2qjqd": {
+        "title": "M 1.7 - 36 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.2359,
+            -151.7374
+        ]
+    },
+    "us6000pg8l": {
+        "title": "M 4.4 - 34 km ENE of Ōma, Japan",
+        "coordinates": [
+            41.6424,
+            141.2908
+        ]
+    },
+    "nc75109186": {
+        "title": "M 0.7 - 10 km WNW of Cobb, CA",
+        "coordinates": [
+            38.84283,
+            -122.83434
+        ]
+    },
+    "nn00890795": {
+        "title": "M 0.6 - 42 km S of Goldfield, Nevada",
+        "coordinates": [
+            37.3301,
+            -117.2524
+        ]
+    },
+    "nc75109181": {
+        "title": "M 0.6 - 9 km WNW of Cobb, CA",
+        "coordinates": [
+            38.84217,
+            -122.823
+        ]
+    },
+    "ak024gq2amuo": {
+        "title": "M 0.4 - 67 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.3085,
+            -152.2956
+        ]
+    },
+    "nc75109176": {
+        "title": "M 0.8 - 7 km NW of The Geysers, CA",
+        "coordinates": [
+            38.81883,
+            -122.82417
+        ]
+    },
+    "ak024gq28xe4": {
+        "title": "M 1.4 - 49 km SSE of Denali National Park, Alaska",
+        "coordinates": [
+            63.1091,
+            -151.5051
+        ]
+    },
+    "ak024gq28bld": {
+        "title": "M 2.0 - 8 km W of Nenana, Alaska",
+        "coordinates": [
+            64.5492,
+            -149.2668
+        ]
+    },
+    "ci40829679": {
+        "title": "M 0.7 - 10 km SSW of San Diego Country Estates, CA",
+        "coordinates": [
+            32.92767,
+            -116.84533
+        ]
+    },
+    "tx2024znoq": {
+        "title": "M 1.2 - 24 km W of Garden City, Texas",
+        "coordinates": [
+            31.887,
+            -101.734
+        ]
+    },
+    "ak024gq2465b": {
+        "title": "M 1.2 - 5 km ENE of Fox, Alaska",
+        "coordinates": [
+            64.9701,
+            -147.5108
+        ]
+    },
+    "ak024gq222ox": {
+        "title": "M 1.1 - 6 km N of Chickaloon, Alaska",
+        "coordinates": [
+            61.8564,
+            -148.4813
+        ]
+    },
+    "ak024gq21w2r": {
+        "title": "M 2.4 - 49 km E of Yakutat, Alaska",
+        "coordinates": [
+            59.6347,
+            -138.8657
+        ]
+    },
+    "ci40829671": {
+        "title": "M 2.7 - 27 km WSW of Dana Point, CA",
+        "coordinates": [
+            33.33383,
+            -117.93967
+        ]
+    },
+    "us6000pg8c": {
+        "title": "M 4.8 - 33 km NNW of Āwash, Ethiopia",
+        "coordinates": [
+            9.2656,
+            40.0594
+        ]
+    },
+    "nn00890792": {
+        "title": "M 1.3 - 40 km SSE of Goldfield, Nevada",
+        "coordinates": [
+            37.3516,
+            -117.1449
+        ]
+    },
+    "ci40829655": {
+        "title": "M 0.9 - 4 km NNW of Beaumont, CA",
+        "coordinates": [
+            33.95867,
+            -116.9955
+        ]
+    },
+    "ci40829647": {
+        "title": "M 1.1 - 16 km W of Searles Valley, CA",
+        "coordinates": [
+            35.75983,
+            -117.57516
+        ]
+    },
+    "ak024gq1kyxv": {
+        "title": "M 1.5 - 15 km SSE of Susitna North, Alaska",
+        "coordinates": [
+            62.0332,
+            -149.7134
+        ]
+    },
+    "nc75109156": {
+        "title": "M 0.3 - 7 km WNW of Cobb, CA",
+        "coordinates": [
+            38.837,
+            -122.80683
+        ]
+    },
+    "ak024gq1iduc": {
+        "title": "M 2.3 - 61 km SE of Denali National Park, Alaska",
+        "coordinates": [
+            63.1874,
+            -150.7729
+        ]
+    },
+    "ak024gq1ibnb": {
+        "title": "M 0.4 - 61 km W of Tyonek, Alaska",
+        "coordinates": [
+            61.1564,
+            -152.2538
+        ]
+    },
+    "ak024gq1ggkx": {
+        "title": "M 1.5 - 42 km E of Denali National Park, Alaska",
+        "coordinates": [
+            63.5952,
+            -150.8779
+        ]
+    },
+    "ci40829639": {
+        "title": "M 1.1 - 11 km WSW of Tecate, B.C., MX",
+        "coordinates": [
+            32.54,
+            -116.74967
         ]
     },
     "ci40829631": {
-        "title": "M 1.4 - 9 km ENE of San Pasqual, CA",
+        "title": "M 1.3 - 6 km S of Borrego Springs, CA",
         "coordinates": [
-            33.12833,
-            -116.868
+            33.20183,
+            -116.37833
         ]
     },
-    "ak024gq10kj6": {
-        "title": "M 1.5 - 62 km W of Salamatof, Alaska",
+    "ci40829623": {
+        "title": "M 1.3 - 7 km S of Borrego Springs, CA",
         "coordinates": [
-            60.5282,
-            -152.4489
+            33.19133,
+            -116.39017
         ]
     },
     "ak024gq0z169": {
@@ -60,13 +1418,6 @@
         "coordinates": [
             38.8385,
             -122.799
-        ]
-    },
-    "ak024gq0u2yb": {
-        "title": "M 2.0 - 19 km WNW of Clam Gulch, Alaska",
-        "coordinates": [
-            60.2739,
-            -151.7397
         ]
     },
     "nc75109126": {
@@ -158,13 +1509,6 @@
         "coordinates": [
             34.265,
             -117.11533
-        ]
-    },
-    "nn00890786": {
-        "title": "M 0.9 - 43 km S of Goldfield, Nevada",
-        "coordinates": [
-            37.3208,
-            -117.207
         ]
     },
     "nc75109096": {
@@ -454,6 +1798,20 @@
             -152.3062
         ]
     },
+    "av93430126": {
+        "title": "M 1.4 - 5 km ESE of King Cove, Alaska",
+        "coordinates": [
+            55.0455,
+            -162.23733
+        ]
+    },
+    "ak024goo02zk": {
+        "title": "M 3.5 - Rat Islands, Aleutian Islands, Alaska",
+        "coordinates": [
+            50.1864,
+            178.4873
+        ]
+    },
     "ak024gonqpti": {
         "title": "M 1.5 - 10 km W of Glacier View, Alaska",
         "coordinates": [
@@ -622,6 +1980,13 @@
             -147.2091
         ]
     },
+    "uw62060762": {
+        "title": "M 1.7 - 2 km SW of Point Roberts, Washington",
+        "coordinates": [
+            48.96783,
+            -123.1085
+        ]
+    },
     "ak024gomjlj9": {
         "title": "M 1.9 - 36 km WSW of Tatitlek, Alaska",
         "coordinates": [
@@ -683,6 +2048,13 @@
         "coordinates": [
             56.4009,
             -152.897
+        ]
+    },
+    "uw62060757": {
+        "title": "M 1.5 - 5 km E of Carnation, Washington",
+        "coordinates": [
+            47.647,
+            -121.83833
         ]
     },
     "nc75108966": {
@@ -1217,6 +2589,27 @@
             -152.2286
         ]
     },
+    "av93429371": {
+        "title": "M -0.3 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30267,
+            -152.26583
+        ]
+    },
+    "av93029454": {
+        "title": "M 0.1 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.3045,
+            -152.27833
+        ]
+    },
+    "av93029449": {
+        "title": "M 0.8 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30133,
+            -152.26733
+        ]
+    },
     "ak024goi6aqg": {
         "title": "M 0.7 - 65 km WNW of Tyonek, Alaska",
         "coordinates": [
@@ -1252,6 +2645,13 @@
             -152.2325
         ]
     },
+    "av93429311": {
+        "title": "M -0.5 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.2995,
+            -152.26833
+        ]
+    },
     "pr71469593": {
         "title": "M 3.4 - 53 km N of Culebra, Puerto Rico",
         "coordinates": [
@@ -1280,6 +2680,20 @@
             -152.2735
         ]
     },
+    "av93029444": {
+        "title": "M 0.6 - 65 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30033,
+            -152.25883
+        ]
+    },
+    "av93429281": {
+        "title": "M 1.2 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30217,
+            -152.2675
+        ]
+    },
     "ak024goi283s": {
         "title": "M 1.6 - 66 km WNW of Tyonek, Alaska",
         "coordinates": [
@@ -1294,6 +2708,41 @@
             -117.62883
         ]
     },
+    "av93429271": {
+        "title": "M -0.3 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30417,
+            -152.2695
+        ]
+    },
+    "av93029439": {
+        "title": "M -0.1 - 65 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30033,
+            -152.26217
+        ]
+    },
+    "av93429266": {
+        "title": "M 0.2 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.31267,
+            -152.277
+        ]
+    },
+    "av93029434": {
+        "title": "M -0.4 - 67 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.32133,
+            -152.27433
+        ]
+    },
+    "av93429261": {
+        "title": "M -0.3 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.3045,
+            -152.27067
+        ]
+    },
     "ak024gohq8db": {
         "title": "M 0.8 - 65 km WNW of Tyonek, Alaska",
         "coordinates": [
@@ -1301,11 +2750,46 @@
             -152.2765
         ]
     },
+    "av93429246": {
+        "title": "M -0.3 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.3085,
+            -152.2695
+        ]
+    },
+    "av93429241": {
+        "title": "M -0.6 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.3145,
+            -152.27417
+        ]
+    },
     "ci40829279": {
         "title": "M 0.8 - 17 km NNE of Borrego Springs, CA",
         "coordinates": [
             33.39817,
             -116.296
+        ]
+    },
+    "av93429226": {
+        "title": "M -0.4 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.31133,
+            -152.27183
+        ]
+    },
+    "av93429221": {
+        "title": "M -0.5 - 67 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.316,
+            -152.27733
+        ]
+    },
+    "av93429211": {
+        "title": "M -0.4 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.3045,
+            -152.27133
         ]
     },
     "ak024gohkvy7": {
@@ -1322,11 +2806,53 @@
             -116.37117
         ]
     },
+    "av93429181": {
+        "title": "M -0.2 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30033,
+            -152.272
+        ]
+    },
+    "av93429176": {
+        "title": "M -0.8 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.29917,
+            -152.27183
+        ]
+    },
+    "av93429171": {
+        "title": "M -0.5 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30183,
+            -152.26883
+        ]
+    },
+    "av93429166": {
+        "title": "M 0.2 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30117,
+            -152.27033
+        ]
+    },
+    "av93429161": {
+        "title": "M -0.2 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30183,
+            -152.2685
+        ]
+    },
     "ci40829263": {
         "title": "M 1.3 - 13 km SW of Searles Valley, CA",
         "coordinates": [
             35.69983,
             -117.51683
+        ]
+    },
+    "av93429156": {
+        "title": "M -0.5 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.29933,
+            -152.274
         ]
     },
     "hv74578702": {
@@ -1343,6 +2869,34 @@
             -118.34333
         ]
     },
+    "av93429151": {
+        "title": "M -0.5 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30317,
+            -152.26967
+        ]
+    },
+    "av93029409": {
+        "title": "M -0.9 - 67 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.3185,
+            -152.27817
+        ]
+    },
+    "av93429136": {
+        "title": "M -0.3 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.3005,
+            -152.27417
+        ]
+    },
+    "av93429141": {
+        "title": "M -0.4 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.2995,
+            -152.275
+        ]
+    },
     "ak024gohgli5": {
         "title": "M 1.4 - 66 km WNW of Tyonek, Alaska",
         "coordinates": [
@@ -1355,6 +2909,27 @@
         "coordinates": [
             61.287,
             -152.2765
+        ]
+    },
+    "av93029404": {
+        "title": "M 0.1 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.31167,
+            -152.27717
+        ]
+    },
+    "av93429121": {
+        "title": "M 0.5 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.304,
+            -152.27067
+        ]
+    },
+    "av93029399": {
+        "title": "M 0.5 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30033,
+            -152.271
         ]
     },
     "ci40829239": {
@@ -1420,6 +2995,13 @@
             -122.767
         ]
     },
+    "us6000pg3w": {
+        "title": "M 4.5 - 26 km SSE of Abomsa, Ethiopia",
+        "coordinates": [
+            9.7506,
+            40.0356
+        ]
+    },
     "nc75108816": {
         "title": "M 1.9 - 4 km  of The Geysers, CA",
         "coordinates": [
@@ -1469,6 +3051,27 @@
             -152.2828
         ]
     },
+    "av93428891": {
+        "title": "M -0.4 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.29967,
+            -152.27433
+        ]
+    },
+    "av93428886": {
+        "title": "M -0.5 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30633,
+            -152.27667
+        ]
+    },
+    "av93428881": {
+        "title": "M -0.5 - 81 km SE of King Salmon, Alaska",
+        "coordinates": [
+            58.269,
+            -155.52683
+        ]
+    },
     "tx2024zlxn": {
         "title": "M 0.9 - 19 km NW of Stanton, Texas",
         "coordinates": [
@@ -1481,6 +3084,27 @@
         "coordinates": [
             61.0253,
             -152.4612
+        ]
+    },
+    "av93428861": {
+        "title": "M 0.2 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.2965,
+            -152.27317
+        ]
+    },
+    "av93029429": {
+        "title": "M 0.1 - 67 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30667,
+            -152.296
+        ]
+    },
+    "av93428851": {
+        "title": "M -0.3 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.29717,
+            -152.27517
         ]
     },
     "nn00890705": {
@@ -1497,6 +3121,69 @@
             -122.843
         ]
     },
+    "av93428846": {
+        "title": "M -0.6 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.29867,
+            -152.27717
+        ]
+    },
+    "us6000pg3r": {
+        "title": "M 4.3 - 114 km NW of Waisai, Indonesia",
+        "coordinates": [
+            0.3372,
+            129.6526
+        ]
+    },
+    "av93428841": {
+        "title": "M -0.8 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.297,
+            -152.27067
+        ]
+    },
+    "av93428826": {
+        "title": "M -0.4 - 67 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30667,
+            -152.28867
+        ]
+    },
+    "av93428836": {
+        "title": "M -0.5 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.299,
+            -152.2725
+        ]
+    },
+    "av93029419": {
+        "title": "M -0.7 - 67 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.31567,
+            -152.28683
+        ]
+    },
+    "av93428821": {
+        "title": "M -0.3 - 59 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.25133,
+            -152.17133
+        ]
+    },
+    "av93428816": {
+        "title": "M -0.7 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30783,
+            -152.27533
+        ]
+    },
+    "av93428801": {
+        "title": "M -0.7 - 67 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.31,
+            -152.28567
+        ]
+    },
     "us6000pg3q": {
         "title": "M 4.5 - 147 km SW of Pagar Alam, Indonesia",
         "coordinates": [
@@ -1511,6 +3198,13 @@
             -122.74267
         ]
     },
+    "av93428781": {
+        "title": "M -0.3 - 65 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30667,
+            -152.25317
+        ]
+    },
     "pr2024363002": {
         "title": "M 3.7 - 70 km N of Tierras Nuevas Poniente, Puerto Rico",
         "coordinates": [
@@ -1518,11 +3212,25 @@
             -66.5258
         ]
     },
+    "av93428771": {
+        "title": "M -0.5 - 11 km W of Akutan, Alaska",
+        "coordinates": [
+            54.1375,
+            -165.94367
+        ]
+    },
     "tx2024zluy": {
         "title": "M 1.1 - 14 km E of Stanton, Texas",
         "coordinates": [
             32.135,
             -101.631
+        ]
+    },
+    "av93428751": {
+        "title": "M -0.6 - 69 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.32917,
+            -152.3155
         ]
     },
     "us6000pg3e": {
@@ -1553,6 +3261,27 @@
             -152.27733
         ]
     },
+    "av93428726": {
+        "title": "M -0.6 - 66 km ENE of Pedro Bay, Alaska",
+        "coordinates": [
+            60.05783,
+            -153.037
+        ]
+    },
+    "av93428716": {
+        "title": "M 0.2 - 65 km N of Karluk, Alaska",
+        "coordinates": [
+            58.15433,
+            -154.526
+        ]
+    },
+    "av93428711": {
+        "title": "M -0.4 - 78 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.22783,
+            -152.56067
+        ]
+    },
     "tx2024zltd": {
         "title": "M 1.6 - 56 km NW of Toyah, Texas",
         "coordinates": [
@@ -1560,11 +3289,25 @@
             -104.282
         ]
     },
+    "av93428706": {
+        "title": "M -0.3 - 44 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.23517,
+            -151.88817
+        ]
+    },
     "ak024goelpwy": {
         "title": "M 1.4 - 44 km N of Sutton-Alpine, Alaska",
         "coordinates": [
             62.1793,
             -148.7611
+        ]
+    },
+    "av93428701": {
+        "title": "M -0.4 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.2985,
+            -152.27467
         ]
     },
     "pr71469548": {
@@ -1595,6 +3338,13 @@
             -116.672
         ]
     },
+    "av93428691": {
+        "title": "M -0.6 - 63 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.2715,
+            -152.23583
+        ]
+    },
     "nc75108771": {
         "title": "M 1.1 - 2 km SW of Anderson Springs, CA",
         "coordinates": [
@@ -1607,6 +3357,13 @@
         "coordinates": [
             40.28333,
             -124.44534
+        ]
+    },
+    "av93428686": {
+        "title": "M -0.7 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30367,
+            -152.277
         ]
     },
     "nn00890703": {
@@ -1742,6 +3499,20 @@
             142.0251
         ]
     },
+    "av93428561": {
+        "title": "M 1.0 - 88 km W of Adak, Alaska",
+        "coordinates": [
+            51.861,
+            -177.92567
+        ]
+    },
+    "av93428551": {
+        "title": "M -0.7 - 66 km WNW of Tyonek, Alaska",
+        "coordinates": [
+            61.295,
+            -152.27467
+        ]
+    },
     "av93428546": {
         "title": "M -0.3 - 66 km WNW of Tyonek, Alaska",
         "coordinates": [
@@ -1805,11 +3576,25 @@
             -122.82267
         ]
     },
+    "av93428516": {
+        "title": "M -0.6 - 66 km WNW of Beluga, Alaska",
+        "coordinates": [
+            61.30467,
+            -152.26767
+        ]
+    },
     "tx2024zlms": {
         "title": "M 2.0 - 37 km NNW of Toyah, Texas",
         "coordinates": [
             31.611,
             -103.978
+        ]
+    },
+    "av93428506": {
+        "title": "M -0.9 - 64 km ENE of Pedro Bay, Alaska",
+        "coordinates": [
+            60.0285,
+            -153.05217
         ]
     },
     "tx2024zlmo": {
@@ -1873,6 +3658,20 @@
         "coordinates": [
             32.402,
             -102.175
+        ]
+    },
+    "uw62060742": {
+        "title": "M 0.6 - 15 km N of Aberdeen Gardens, Washington",
+        "coordinates": [
+            47.20217,
+            -123.74883
+        ]
+    },
+    "av93029394": {
+        "title": "M 1.4 - 53 km NE of Nikolski, Alaska",
+        "coordinates": [
+            53.32033,
+            -168.3635
         ]
     },
     "nc75108736": {
@@ -3030,6 +4829,13 @@
             -68.6696
         ]
     },
+    "us6000pfw2": {
+        "title": "M 4.3 - 75 km WNW of Amagi, Japan",
+        "coordinates": [
+            28.0462,
+            128.1764
+        ]
+    },
     "av93427666": {
         "title": "M 0.2 - 87 km NNW of Karluk, Alaska",
         "coordinates": [
@@ -3196,6 +5002,13 @@
         "coordinates": [
             55.7381,
             -161.4202
+        ]
+    },
+    "us6000pfvg": {
+        "title": "M 4.5 - 123 km SSE of Labuha, Indonesia",
+        "coordinates": [
+            -1.6798,
+            127.8343
         ]
     },
     "nn00890661": {
@@ -3380,6 +5193,13 @@
             -152.30017
         ]
     },
+    "us6000pfuw": {
+        "title": "M 4.5 - 173 km W of Labuha, Indonesia",
+        "coordinates": [
+            -0.3239,
+            125.9497
+        ]
+    },
     "ak024gms87t0": {
         "title": "M 0.4 - 66 km WNW of Beluga, Alaska",
         "coordinates": [
@@ -3451,10 +5271,10 @@
         ]
     },
     "tx2024zjzm": {
-        "title": "M 1.8 - 51 km S of Whites City, New Mexico",
+        "title": "M 1.7 - 50 km S of Whites City, New Mexico",
         "coordinates": [
-            31.719,
-            -104.302
+            31.721,
+            -104.306
         ]
     },
     "ak024gmro1hn": {
@@ -3612,10 +5432,10 @@
         ]
     },
     "tx2024zjwz": {
-        "title": "M 1.9 - 58 km S of Whites City, New Mexico",
+        "title": "M 1.8 - 57 km S of Whites City, New Mexico",
         "coordinates": [
-            31.652,
-            -104.354
+            31.659,
+            -104.35
         ]
     },
     "av93427271": {
@@ -3714,6 +5534,13 @@
         "coordinates": [
             37.3795,
             -117.1845
+        ]
+    },
+    "tx2024zjvb": {
+        "title": "M 1.6 - 14 km NNE of Hermleigh, Texas",
+        "coordinates": [
+            32.746,
+            -100.677
         ]
     },
     "ak024gmqdzc9": {
@@ -3906,10 +5733,10 @@
         ]
     },
     "tx2024zjof": {
-        "title": "M 1.6 - 57 km S of Whites City, New Mexico",
+        "title": "M 1.5 - 56 km S of Whites City, New Mexico",
         "coordinates": [
-            31.658,
-            -104.324
+            31.666,
+            -104.32
         ]
     },
     "nc75108346": {
@@ -4253,6 +6080,13 @@
         "coordinates": [
             38.79033,
             -122.8145
+        ]
+    },
+    "tx2024zjek": {
+        "title": "M 1.4 - 13 km N of Snyder, Texas",
+        "coordinates": [
+            32.841,
+            -100.945
         ]
     },
     "nc75108256": {
@@ -4795,7 +6629,7 @@
         ]
     },
     "tx2024zipg": {
-        "title": "M 1.6 - western Texas",
+        "title": "M 1.6 - 57 km NW of Toyah, Texas",
         "coordinates": [
             31.643,
             -104.268
@@ -8581,6 +10415,13 @@
             -117.201
         ]
     },
+    "us6000pfdr": {
+        "title": "M 4.4 - 6 km WNW of Palora, Ecuador",
+        "coordinates": [
+            -1.6686,
+            -78.0147
+        ]
+    },
     "ak024ggfuh1g": {
         "title": "M 1.9 - 25 km NW of Valdez, Alaska",
         "coordinates": [
@@ -8593,6 +10434,20 @@
         "coordinates": [
             38.83467,
             -122.79933
+        ]
+    },
+    "us6000pfdu": {
+        "title": "M 4.7 - Mariana Islands region",
+        "coordinates": [
+            19.5278,
+            147.6151
+        ]
+    },
+    "us6000pfdl": {
+        "title": "M 4.4 - south of the Fiji Islands",
+        "coordinates": [
+            -25.3279,
+            -178.2408
         ]
     },
     "ak024ggfrnr5": {
@@ -15218,10 +17073,10 @@
         ]
     },
     "nc75105731": {
-        "title": "M 2.0 - 25 km NE of Redway, CA",
+        "title": "M 2.1 - 25 km NE of Redway, CA",
         "coordinates": [
-            40.305,
-            -123.659
+            40.3045,
+            -123.657
         ]
     },
     "ak024gb837jj": {
@@ -18939,13 +20794,6 @@
         "coordinates": [
             62.2494,
             -150.8977
-        ]
-    },
-    "nc75104836": {
-        "title": "M 2.4 - 57 km WSW of Petrolia, CA",
-        "coordinates": [
-            40.11883,
-            -124.90334
         ]
     },
     "hv74570067": {
@@ -36456,10 +38304,10 @@
         ]
     },
     "us7000p0em": {
-        "title": "M 4.1 - 284 km E of Levuka, Fiji",
+        "title": "M 4.2 - 289 km E of Levuka, Fiji",
         "coordinates": [
-            -17.8957,
-            -178.004
+            -17.8385,
+            -177.9586
         ]
     },
     "uw62067146": {
@@ -41176,8 +43024,8 @@
     "us7000nxbw": {
         "title": "M 2.2 - 72 km E of San Vicente, Mexico",
         "coordinates": [
-            31.4125,
-            -115.4876
+            31.4091,
+            -115.4919
         ]
     },
     "ci40998248": {
@@ -44900,8 +46748,8 @@
     "us7000nx3e": {
         "title": "M 5.5 - central East Pacific Rise",
         "coordinates": [
-            -8.9311,
-            -109.3363
+            -8.8246,
+            -109.3623
         ]
     },
     "mb90068048": {
@@ -44914,8 +46762,8 @@
     "us7000nx2v": {
         "title": "M 4.8 - Balleny Islands region",
         "coordinates": [
-            -62.134,
-            155.4576
+            -62.1092,
+            155.9094
         ]
     },
     "nc75099576": {
@@ -44935,8 +46783,8 @@
     "us7000nx3c": {
         "title": "M 5.3 - central East Pacific Rise",
         "coordinates": [
-            -9.0424,
-            -109.6788
+            -8.9965,
+            -109.5871
         ]
     },
     "ak024frj07up": {
@@ -44996,10 +46844,10 @@
         ]
     },
     "us7000nx2p": {
-        "title": "M 4.9 - 176 km N of Dili, Timor Leste",
+        "title": "M 4.6 - 177 km N of Dili, Timor Leste",
         "coordinates": [
-            -6.981,
-            125.3069
+            -6.9846,
+            125.2746
         ]
     },
     "nc75099541": {
@@ -45255,10 +47103,10 @@
         ]
     },
     "us7000nx28": {
-        "title": "M 3.2 - 203 km W of Bandon, Oregon",
+        "title": "M 3.2 - 197 km W of Bandon, Oregon",
         "coordinates": [
-            43.4198,
-            -126.8784
+            43.4483,
+            -126.7965
         ]
     },
     "av93396901": {
@@ -45297,10 +47145,10 @@
         ]
     },
     "us7000nx25": {
-        "title": "M 3.9 - 249 km W of Port Orford, Oregon",
+        "title": "M 4.1 - 229 km W of Langlois, Oregon",
         "coordinates": [
-            43.1616,
-            -127.5042
+            43.3063,
+            -127.2275
         ]
     },
     "nc75099496": {
@@ -46760,10 +48608,10 @@
         ]
     },
     "us7000nwyz": {
-        "title": "M 4.5 - 93 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "title": "M 4.5 - 94 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "coordinates": [
-            52.6988,
-            159.8802
+            52.7008,
+            159.9033
         ]
     },
     "ak024fr9f4s5": {
@@ -47200,11 +49048,11 @@
             -116.35067
         ]
     },
-    "ak024fpxxxtp": {
-        "title": "M 2.2 - 95 km SE of Akutan, Alaska",
+    "us7000nwy4": {
+        "title": "M 2.6 - 94 km SE of Akutan, Alaska",
         "coordinates": [
-            53.4938,
-            -164.8039
+            53.5076,
+            -164.8046
         ]
     },
     "ci37692316": {
@@ -47261,6 +49109,13 @@
         "coordinates": [
             38.4995,
             -112.8955
+        ]
+    },
+    "us7000p03d": {
+        "title": "M 4.4 - northern Mid-Atlantic Ridge",
+        "coordinates": [
+            52.2296,
+            -30.097
         ]
     },
     "nc75099016": {
@@ -48020,10 +49875,10 @@
         ]
     },
     "us7000nwvq": {
-        "title": "M 4.7 - 22 km SSW of Pangoa, Peru",
+        "title": "M 4.7 - 18 km SSW of Pangoa, Peru",
         "coordinates": [
-            -12.3105,
-            -73.0601
+            -12.2713,
+            -73.0735
         ]
     },
     "nc75098761": {
@@ -49419,6 +51274,13 @@
             -124.58266
         ]
     },
+    "us7000nwsd": {
+        "title": "M 4.5 - 89 km ESE of Kokopo, Papua New Guinea",
+        "coordinates": [
+            -4.6439,
+            153.0137
+        ]
+    },
     "nc75098231": {
         "title": "M 1.8 - 39 km WNW of Petrolia, CA",
         "coordinates": [
@@ -49452,6 +51314,20 @@
         "coordinates": [
             33.81883,
             -117.00233
+        ]
+    },
+    "us7000nwsa": {
+        "title": "M 4.5 - 175 km ENE of Lospalos, Timor Leste",
+        "coordinates": [
+            -7.6812,
+            128.3466
+        ]
+    },
+    "us7000p02j": {
+        "title": "M 4.8 - 34 km WNW of Tanjung, Indonesia",
+        "coordinates": [
+            -2.0618,
+            115.1192
         ]
     },
     "nc75098206": {
@@ -49515,6 +51391,13 @@
         "coordinates": [
             61.30733,
             -152.24633
+        ]
+    },
+    "us7000nws5": {
+        "title": "M 4.6 - 15 km E of Banjar, Indonesia",
+        "coordinates": [
+            -7.1921,
+            107.5675
         ]
     },
     "nc75098176": {
@@ -49587,6 +51470,13 @@
             -155.36567
         ]
     },
+    "us7000nwrt": {
+        "title": "M 4.3 - 32 km WNW of El Huecú, Argentina",
+        "coordinates": [
+            -37.5814,
+            -70.9413
+        ]
+    },
     "nc75098131": {
         "title": "M 3.6 - 49 km WNW of Petrolia, CA",
         "coordinates": [
@@ -49608,6 +51498,13 @@
             -124.8205
         ]
     },
+    "us7000p01l": {
+        "title": "M 4.5 - south of the Fiji Islands",
+        "coordinates": [
+            -23.8641,
+            -179.9398
+        ]
+    },
     "ak024fobojaz": {
         "title": "M 1.9 - 12 km SW of Point MacKenzie, Alaska",
         "coordinates": [
@@ -49616,10 +51513,10 @@
         ]
     },
     "us7000nwrr": {
-        "title": "M 4.5 - 107 km S of Yudomari, Japan",
+        "title": "M 4.5 - 106 km S of Yudomari, Japan",
         "coordinates": [
-            29.2705,
-            130.4125
+            29.2871,
+            130.2913
         ]
     },
     "nc75098111": {
@@ -49627,6 +51524,13 @@
         "coordinates": [
             40.30267,
             -124.477
+        ]
+    },
+    "us7000p01k": {
+        "title": "M 4.3 - 106 km S of Yudomari, Japan",
+        "coordinates": [
+            29.2835,
+            130.2919
         ]
     },
     "ci40996328": {
@@ -49686,10 +51590,10 @@
         ]
     },
     "us7000nwrf": {
-        "title": "M 4.6 - south of the Fiji Islands",
+        "title": "M 4.5 - south of the Fiji Islands",
         "coordinates": [
-            -23.2522,
-            -179.836
+            -23.302,
+            -179.7814
         ]
     },
     "uw62066561": {
@@ -49727,6 +51631,13 @@
             -123.99683
         ]
     },
+    "us7000nwr5": {
+        "title": "M 4.5 - 86 km NNW of San Antonio de los Cobres, Argentina",
+        "coordinates": [
+            -23.5273,
+            -66.7085
+        ]
+    },
     "nc75098061": {
         "title": "M 3.7 - 17 km W of Petrolia, CA",
         "coordinates": [
@@ -49746,6 +51657,13 @@
         "coordinates": [
             42.12,
             142.1797
+        ]
+    },
+    "us7000p01m": {
+        "title": "M 4.4 - south of the Fiji Islands",
+        "coordinates": [
+            -23.4485,
+            -179.4133
         ]
     },
     "hv74558537": {
@@ -50351,10 +52269,10 @@
         ]
     },
     "us7000nwmf": {
-        "title": "M 2.5 - 75 km WSW of Ferndale, California",
+        "title": "M 2.6 - 98 km W of Ferndale, California",
         "coordinates": [
-            40.4375,
-            -125.1394
+            40.4587,
+            -125.4165
         ]
     },
     "nc75097816": {
@@ -50397,6 +52315,13 @@
         "coordinates": [
             33.19117,
             -116.177
+        ]
+    },
+    "us7000p01f": {
+        "title": "M 4.3 - 89 km WSW of Ternate, Indonesia",
+        "coordinates": [
+            0.4234,
+            126.667
         ]
     },
     "ci40995896": {
@@ -52518,6 +54443,13 @@
         "coordinates": [
             61.3015,
             -152.2845
+        ]
+    },
+    "us7000nwe5": {
+        "title": "M 4.1 - 284 km ENE of Lospalos, Timor Leste",
+        "coordinates": [
+            -7.1937,
+            129.2082
         ]
     },
     "nc75096821": {
@@ -54644,15 +56576,15 @@
     "us7000nw6g": {
         "title": "M 5.1 - South Sandwich Islands region",
         "coordinates": [
-            -55.7476,
-            -29.0697
+            -55.9482,
+            -27.9128
         ]
     },
     "us7000nw5h": {
-        "title": "M 4.8 - 174 km NNW of Sola, Vanuatu",
+        "title": "M 4.8 - 181 km NNW of Sola, Vanuatu",
         "coordinates": [
-            -12.3629,
-            167.0881
+            -12.3172,
+            167.0375
         ]
     },
     "ak024fmkimak": {
@@ -54704,11 +56636,11 @@
             -116.74667
         ]
     },
-    "ak024fmkdobd": {
-        "title": "M 2.7 - 277 km W of Adak, Alaska",
+    "us6000pg1z": {
+        "title": "M 2.7 - 280 km WSW of Adak, Alaska",
         "coordinates": [
-            51.4704,
-            179.4026
+            51.4419,
+            179.3677
         ]
     },
     "uu80001783": {
@@ -54718,11 +56650,11 @@
             -111.13917
         ]
     },
-    "ak024fmkcuy5": {
-        "title": "M 2.4 - 87 km SSE of King Cove, Alaska",
+    "us6000pg1y": {
+        "title": "M 2.7 - 96 km SSE of King Cove, Alaska",
         "coordinates": [
-            54.3807,
-            -161.6281
+            54.3016,
+            -161.6094
         ]
     },
     "nc75095596": {
@@ -54971,10 +56903,10 @@
         ]
     },
     "us7000nw4s": {
-        "title": "M 4.8 - 248 km SE of Kushimoto, Japan",
+        "title": "M 4.9 - 240 km ESE of Kushimoto, Japan",
         "coordinates": [
-            32.2187,
-            137.9821
+            32.2879,
+            137.9325
         ]
     },
     "ak024fmj8roj": {
@@ -59100,11 +61032,11 @@
             -158.1949
         ]
     },
-    "av93389058": {
-        "title": "M 0.9 - 83 km NNW of Karluk, Alaska",
+    "ak024fkpn1v1": {
+        "title": "M 0.7 - 82 km NNW of Karluk, Alaska",
         "coordinates": [
-            58.26967,
-            -154.93667
+            58.2675,
+            -154.9417
         ]
     },
     "ci40993272": {
@@ -60181,8 +62113,8 @@
     "us7000nzbu": {
         "title": "M 4.3 - western Indian-Antarctic Ridge",
         "coordinates": [
-            -50.2206,
-            114.2511
+            -50.2202,
+            114.2637
         ]
     },
     "nc75094546": {
@@ -63338,8 +65270,8 @@
     "us7000nyie": {
         "title": "M 4.5 - southeast Indian Ridge",
         "coordinates": [
-            -49.2722,
-            107.704
+            -49.2074,
+            107.6948
         ]
     },
     "av93386918": {
@@ -70123,2477 +72055,6 @@
         "coordinates": [
             38.506,
             -112.88883
-        ]
-    },
-    "ak024fe1xaro": {
-        "title": "M 1.7 - 61 km SSW of Cantwell, Alaska",
-        "coordinates": [
-            62.8683,
-            -149.3062
-        ]
-    },
-    "uu80088281": {
-        "title": "M 0.9 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.5135,
-            -112.892
-        ]
-    },
-    "uu80088271": {
-        "title": "M 1.4 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.5095,
-            -112.893
-        ]
-    },
-    "uu80088266": {
-        "title": "M 0.1 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50833,
-            -112.88267
-        ]
-    },
-    "uu80088261": {
-        "title": "M 1.2 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.51083,
-            -112.89317
-        ]
-    },
-    "uu80088256": {
-        "title": "M 1.1 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50683,
-            -112.88517
-        ]
-    },
-    "uu80088241": {
-        "title": "M 0.3 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50683,
-            -112.89183
-        ]
-    },
-    "ak024fe1vd0u": {
-        "title": "M 1.7 - 53 km W of Ninilchik, Alaska",
-        "coordinates": [
-            60.145,
-            -152.6167
-        ]
-    },
-    "uu80088216": {
-        "title": "M 1.2 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50917,
-            -112.8895
-        ]
-    },
-    "uu80088186": {
-        "title": "M 1.2 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50717,
-            -112.891
-        ]
-    },
-    "uu80088181": {
-        "title": "M 1.0 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50833,
-            -112.8925
-        ]
-    },
-    "nc75092691": {
-        "title": "M 1.1 - 4 km NNW of The Geysers, CA",
-        "coordinates": [
-            38.80533,
-            -122.78067
-        ]
-    },
-    "uu80088176": {
-        "title": "M 0.7 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.509,
-            -112.88617
-        ]
-    },
-    "av93383988": {
-        "title": "M 0.3 - 60 km SE of Pedro Bay, Alaska",
-        "coordinates": [
-            59.3565,
-            -153.4405
-        ]
-    },
-    "us7000nv1b": {
-        "title": "M 4.5 - south of the Fiji Islands",
-        "coordinates": [
-            -22.1996,
-            -178.1363
-        ]
-    },
-    "uu80088151": {
-        "title": "M 1.2 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50533,
-            -112.88917
-        ]
-    },
-    "uu80088141": {
-        "title": "M 0.9 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.51083,
-            -112.88917
-        ]
-    },
-    "uu80088136": {
-        "title": "M 1.0 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.51217,
-            -112.89317
-        ]
-    },
-    "uu80088116": {
-        "title": "M 0.5 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.515,
-            -112.8895
-        ]
-    },
-    "uu80088111": {
-        "title": "M 0.8 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50833,
-            -112.88833
-        ]
-    },
-    "uu80088101": {
-        "title": "M 1.2 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.51117,
-            -112.8925
-        ]
-    },
-    "uu80088096": {
-        "title": "M 1.1 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50617,
-            -112.8875
-        ]
-    },
-    "nc75092681": {
-        "title": "M 0.9 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.845,
-            -122.83167
-        ]
-    },
-    "mb90067273": {
-        "title": "M 1.7 - 5 km NNW of Stanley, Idaho",
-        "coordinates": [
-            44.257,
-            -114.97517
-        ]
-    },
-    "us7000nv16": {
-        "title": "M 4.8 - 32 km WNW of Hakui, Japan",
-        "coordinates": [
-            37.0404,
-            136.474
-        ]
-    },
-    "av93383973": {
-        "title": "M -0.2 - 68 km WNW of Beluga, Alaska",
-        "coordinates": [
-            61.3235,
-            -152.29683
-        ]
-    },
-    "pr71467228": {
-        "title": "M 2.4 - 3 km E of Maria Antonia, Puerto Rico",
-        "coordinates": [
-            17.97617,
-            -66.85867
-        ]
-    },
-    "nc75092671": {
-        "title": "M 0.6 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.84583,
-            -122.835
-        ]
-    },
-    "ok2024xmho": {
-        "title": "M 0.7 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5365,
-            -96.75133
-        ]
-    },
-    "uu80088051": {
-        "title": "M 0.8 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.509,
-            -112.89183
-        ]
-    },
-    "uu80001768": {
-        "title": "M 1.5 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50867,
-            -112.89283
-        ]
-    },
-    "uu80088046": {
-        "title": "M 0.2 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50767,
-            -112.88967
-        ]
-    },
-    "ok2024xmhj": {
-        "title": "M -1.9 - 9 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5485,
-            -96.7495
-        ]
-    },
-    "pr71467223": {
-        "title": "M 3.3 - 139 km NNE of Vieques, Puerto Rico",
-        "coordinates": [
-            19.6165,
-            -65.38933
-        ]
-    },
-    "us7000nv14": {
-        "title": "M 5.2 - 233 km WSW of Santiago de Cao, Peru",
-        "coordinates": [
-            -8.9048,
-            -81.1354
-        ]
-    },
-    "uu80088041": {
-        "title": "M 1.2 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.51,
-            -112.89483
-        ]
-    },
-    "uu80088036": {
-        "title": "M 0.1 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.51,
-            -112.8895
-        ]
-    },
-    "uu80088026": {
-        "title": "M 1.7 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50683,
-            -112.88233
-        ]
-    },
-    "uu80088016": {
-        "title": "M 1.2 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50867,
-            -112.89217
-        ]
-    },
-    "ci40990320": {
-        "title": "M 0.9 - 11 km NNE of Trabuco Canyon, CA",
-        "coordinates": [
-            33.74583,
-            -117.53417
-        ]
-    },
-    "us7000nv11": {
-        "title": "M 4.3 - 41 km E of Tobelo, Indonesia",
-        "coordinates": [
-            1.7933,
-            128.3765
-        ]
-    },
-    "uu80087991": {
-        "title": "M 0.0 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.5105,
-            -112.88967
-        ]
-    },
-    "hv74546722": {
-        "title": "M 1.7 - 8 km SSE of Volcano, Hawaii",
-        "coordinates": [
-            19.37017,
-            -155.19667
-        ]
-    },
-    "nc75092661": {
-        "title": "M 1.3 - 5 km SSW of Boonville, CA",
-        "coordinates": [
-            38.966,
-            -123.38383
-        ]
-    },
-    "tx2024xmew": {
-        "title": "M 1.6 - 25 km NE of Crane, Texas",
-        "coordinates": [
-            31.573,
-            -102.17
-        ]
-    },
-    "us7000ny7y": {
-        "title": "M 3.0 - 253 km WSW of Tofino, Canada",
-        "coordinates": [
-            48.0245,
-            -128.9006
-        ]
-    },
-    "ci40990264": {
-        "title": "M 0.9 - 12 km SSW of Idyllwild, CA",
-        "coordinates": [
-            33.64917,
-            -116.78117
-        ]
-    },
-    "hv74546682": {
-        "title": "M 1.8 - 12 km ENE of Pāhala, Hawaii",
-        "coordinates": [
-            19.24133,
-            -155.36217
-        ]
-    },
-    "us7000nv0s": {
-        "title": "M 4.3 - 48 km SE of Severo-Kuril’sk, Russia",
-        "coordinates": [
-            50.3221,
-            156.5221
-        ]
-    },
-    "us7000nv0p": {
-        "title": "M 4.3 - 62 km ENE of Petropavlovsk-Kamchatsky, Russia",
-        "coordinates": [
-            53.2923,
-            159.4806
-        ]
-    },
-    "nc75092651": {
-        "title": "M 1.0 - 7 km WNW of Cobb, CA",
-        "coordinates": [
-            38.83484,
-            -122.798
-        ]
-    },
-    "ak024fcqpce2": {
-        "title": "M 2.4 - 44 km SSW of Glacier View, Alaska",
-        "coordinates": [
-            61.4168,
-            -147.8248
-        ]
-    },
-    "mb90067183": {
-        "title": "M 0.6 - 13 km SE of Lincoln, Montana",
-        "coordinates": [
-            46.8855,
-            -112.536
-        ]
-    },
-    "ok2024xmcn": {
-        "title": "M -0.9 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54067,
-            -96.75067
-        ]
-    },
-    "ak024fcqnlpu": {
-        "title": "M 1.4 - 27 km ENE of Silver Springs, Alaska",
-        "coordinates": [
-            62.1376,
-            -144.8822
-        ]
-    },
-    "us7000ny7t": {
-        "title": "M 4.6 - Kuril Islands",
-        "coordinates": [
-            46.2819,
-            153.8707
-        ]
-    },
-    "us7000ny7w": {
-        "title": "M 4.0 - 72 km W of Tobelo, Indonesia",
-        "coordinates": [
-            1.7136,
-            127.3575
-        ]
-    },
-    "nc75092646": {
-        "title": "M 0.4 - 6 km WNW of Cobb, CA",
-        "coordinates": [
-            38.83767,
-            -122.7935
-        ]
-    },
-    "ak024fcqab4q": {
-        "title": "M 1.5 - 61 km ESE of Denali Park, Alaska",
-        "coordinates": [
-            63.5359,
-            -147.7532
-        ]
-    },
-    "pr71467213": {
-        "title": "M 2.9 - 6 km SSE of Indios, Puerto Rico",
-        "coordinates": [
-            17.93467,
-            -66.79983
-        ]
-    },
-    "av93383918": {
-        "title": "M 0.5 - 70 km WNW of Karluk, Alaska",
-        "coordinates": [
-            57.832,
-            -155.5395
-        ]
-    },
-    "uu80002183": {
-        "title": "M -0.2 - 21 km SSW of Mammoth, Wyoming",
-        "coordinates": [
-            44.80767,
-            -110.82233
-        ]
-    },
-    "nc75092641": {
-        "title": "M 1.3 - 35 km SW of Qualeys Camp, NV",
-        "coordinates": [
-            38.0255,
-            -118.68983
-        ]
-    },
-    "ok2024xmbf": {
-        "title": "M -1.0 - 9 km SE of Sparks, Oklahoma",
-        "coordinates": [
-            35.5485,
-            -96.75367
-        ]
-    },
-    "ok2024xmaz": {
-        "title": "M -1.0 - 8 km WNW of Prague, Oklahoma",
-        "coordinates": [
-            35.51617,
-            -96.77533
-        ]
-    },
-    "ci40990200": {
-        "title": "M 1.3 - 25 km SW of Ocotillo Wells, CA",
-        "coordinates": [
-            32.98417,
-            -116.32517
-        ]
-    },
-    "ak024fcq4zyq": {
-        "title": "M 2.6 - 26 km NNW of Willow, Alaska",
-        "coordinates": [
-            61.9514,
-            -150.2803
-        ]
-    },
-    "us7000nv0e": {
-        "title": "M 4.5 - 166 km NNW of Sola, Vanuatu",
-        "coordinates": [
-            -12.455,
-            167.0456
-        ]
-    },
-    "nn00888119": {
-        "title": "M 1.4 - 32 km SSW of Mina, Nevada",
-        "coordinates": [
-            38.1122,
-            -118.23
-        ]
-    },
-    "pr2024334000": {
-        "title": "M 3.8 - 135 km NNE of Vieques, Puerto Rico",
-        "coordinates": [
-            19.5913,
-            -65.4338
-        ]
-    },
-    "ok2024xmab": {
-        "title": "M -1.2 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53767,
-            -96.7575
-        ]
-    },
-    "ci40990184": {
-        "title": "M 0.6 - 15 km ESE of Little Lake, CA",
-        "coordinates": [
-            35.9025,
-            -117.74333
-        ]
-    },
-    "uw62063161": {
-        "title": "M 0.7 - 9 km S of Onalaska, Washington",
-        "coordinates": [
-            46.48983,
-            -122.70517
-        ]
-    },
-    "ak024fcpoqs6": {
-        "title": "M 1.3 - 24 km SE of Rampart, Alaska",
-        "coordinates": [
-            65.3303,
-            -149.84
-        ]
-    },
-    "nc75092626": {
-        "title": "M 0.2 - 8 km WNW of Cobb, CA",
-        "coordinates": [
-            38.83417,
-            -122.815
-        ]
-    },
-    "ak024fcpo2ke": {
-        "title": "M 1.6 - 43 km SSW of Deltana, Alaska",
-        "coordinates": [
-            63.5329,
-            -145.6684
-        ]
-    },
-    "av93027659": {
-        "title": "M -0.5 - 84 km NNW of Karluk, Alaska",
-        "coordinates": [
-            58.28333,
-            -154.95033
-        ]
-    },
-    "us7000nv09": {
-        "title": "M 4.6 - 261 km SE of Pondaguitan, Philippines",
-        "coordinates": [
-            4.631,
-            127.7829
-        ]
-    },
-    "uw62063156": {
-        "title": "M 1.3 - 28 km S of Morton, Washington",
-        "coordinates": [
-            46.30817,
-            -122.22667
-        ]
-    },
-    "av93383843": {
-        "title": "M 0.3 - 83 km NNW of Karluk, Alaska",
-        "coordinates": [
-            58.2715,
-            -154.931
-        ]
-    },
-    "uu80002178": {
-        "title": "M 0.1 - 51 km ESE of West Yellowstone, Montana",
-        "coordinates": [
-            44.447,
-            -110.5335
-        ]
-    },
-    "nc75092621": {
-        "title": "M 0.5 - 9 km WNW of Cobb, CA",
-        "coordinates": [
-            38.84067,
-            -122.82233
-        ]
-    },
-    "us7000ny7p": {
-        "title": "M 4.5 - south of Tonga",
-        "coordinates": [
-            -24.0374,
-            -175.9338
-        ]
-    },
-    "us7000ny7q": {
-        "title": "M 4.3 - South Sandwich Islands region",
-        "coordinates": [
-            -58.0575,
-            -25.9211
-        ]
-    },
-    "us7000ny7n": {
-        "title": "M 4.7 - South Sandwich Islands region",
-        "coordinates": [
-            -58.0723,
-            -23.9993
-        ]
-    },
-    "us7000ny7m": {
-        "title": "M 4.0 - south of the Fiji Islands",
-        "coordinates": [
-            -25.7331,
-            -179.5408
-        ]
-    },
-    "ci40990176": {
-        "title": "M 0.8 - 15 km NE of Little Lake, CA",
-        "coordinates": [
-            36.025,
-            -117.77917
-        ]
-    },
-    "uu80002173": {
-        "title": "M 0.5 - 50 km ESE of West Yellowstone, Montana",
-        "coordinates": [
-            44.44917,
-            -110.53783
-        ]
-    },
-    "ak024fcpenkr": {
-        "title": "M 1.7 - 53 km S of Cantwell, Alaska",
-        "coordinates": [
-            62.9157,
-            -149.1152
-        ]
-    },
-    "uu80002168": {
-        "title": "M 0.2 - 50 km ESE of West Yellowstone, Montana",
-        "coordinates": [
-            44.44867,
-            -110.53617
-        ]
-    },
-    "nc75092611": {
-        "title": "M 0.8 - 10 km NW of The Geysers, CA",
-        "coordinates": [
-            38.82167,
-            -122.8535
-        ]
-    },
-    "nc75092606": {
-        "title": "M 0.7 - 8 km WNW of Cobb, CA",
-        "coordinates": [
-            38.835,
-            -122.81583
-        ]
-    },
-    "nc75092601": {
-        "title": "M 0.8 - 2 km NW of The Geysers, CA",
-        "coordinates": [
-            38.79117,
-            -122.7785
-        ]
-    },
-    "tx2024xlxu": {
-        "title": "M 1.7 - 53 km NW of Toyah, Texas",
-        "coordinates": [
-            31.666,
-            -104.183
-        ]
-    },
-    "nc75092591": {
-        "title": "M 0.8 - 10 km NW of The Geysers, CA",
-        "coordinates": [
-            38.82617,
-            -122.85467
-        ]
-    },
-    "nc75092596": {
-        "title": "M 1.5 - 18 km S of Bodie, CA",
-        "coordinates": [
-            38.05783,
-            -118.96283
-        ]
-    },
-    "us7000ny7l": {
-        "title": "M 4.3 - 170 km NNW of Neiafu, Tonga",
-        "coordinates": [
-            -17.2637,
-            -174.6773
-        ]
-    },
-    "ak024fcoztyi": {
-        "title": "M 2.3 - 67 km ESE of Denali National Park, Alaska",
-        "coordinates": [
-            63.2906,
-            -150.497
-        ]
-    },
-    "nc75092586": {
-        "title": "M 1.1 - 7 km NW of The Geysers, CA",
-        "coordinates": [
-            38.81367,
-            -122.81567
-        ]
-    },
-    "ak024fcoy5vv": {
-        "title": "M 2.2 - 47 km ESE of Pedro Bay, Alaska",
-        "coordinates": [
-            59.6827,
-            -153.2941
-        ]
-    },
-    "nc75092571": {
-        "title": "M 1.3 - 3 km ESE of Pacifica, CA",
-        "coordinates": [
-            37.60883,
-            -122.453
-        ]
-    },
-    "us7000nv00": {
-        "title": "M 4.8 - 68 km WSW of Gazipaşa, Turkey",
-        "coordinates": [
-            35.9334,
-            31.6797
-        ]
-    },
-    "nc75092566": {
-        "title": "M 1.3 - 4 km WNW of Cobb, CA",
-        "coordinates": [
-            38.82217,
-            -122.7655
-        ]
-    },
-    "nn00888121": {
-        "title": "M 0.8 - 1 km ENE of Golden Valley, Nevada",
-        "coordinates": [
-            39.6224,
-            -119.8108
-        ]
-    },
-    "nn00888115": {
-        "title": "M 0.8 - 40 km SE of Goldfield, Nevada",
-        "coordinates": [
-            37.4407,
-            -116.926
-        ]
-    },
-    "mb90067443": {
-        "title": "M 0.2 - 22 km WNW of Hebgen Lake Estates, Montana",
-        "coordinates": [
-            44.84733,
-            -111.45517
-        ]
-    },
-    "mb90067368": {
-        "title": "M 0.0 - 6 km NE of Rollins, Montana",
-        "coordinates": [
-            47.93983,
-            -114.12983
-        ]
-    },
-    "us7000nuzz": {
-        "title": "M 4.5 - 87 km SSW of Modisi, Indonesia",
-        "coordinates": [
-            -0.2825,
-            124.1508
-        ]
-    },
-    "ok2024xlwa": {
-        "title": "M 0.8 - 9 km SSW of Calumet, Oklahoma",
-        "coordinates": [
-            35.526,
-            -98.16667
-        ]
-    },
-    "mb90067173": {
-        "title": "M 1.6 - 6 km SW of Woods Bay, Montana",
-        "coordinates": [
-            47.96583,
-            -114.1255
-        ]
-    },
-    "ci40990128": {
-        "title": "M 1.2 - 1 km NNW of La Habra, CA",
-        "coordinates": [
-            33.94167,
-            -117.95033
-        ]
-    },
-    "mb90067438": {
-        "title": "M 0.5 - 15 km W of Hebgen Lake Estates, Montana",
-        "coordinates": [
-            44.75833,
-            -111.38067
-        ]
-    },
-    "tx2024xlvi": {
-        "title": "M 2.0 - 53 km NW of Toyah, Texas",
-        "coordinates": [
-            31.668,
-            -104.183
-        ]
-    },
-    "mb90067268": {
-        "title": "M 0.7 - 17 km S of Lincoln, Montana",
-        "coordinates": [
-            46.79667,
-            -112.675
-        ]
-    },
-    "ak024fcodayw": {
-        "title": "M 0.8 - 7 km S of Trapper Creek, Alaska",
-        "coordinates": [
-            62.2451,
-            -150.2252
-        ]
-    },
-    "ok2024xlux": {
-        "title": "M -1.1 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54017,
-            -96.75167
-        ]
-    },
-    "ok2024xluw": {
-        "title": "M 0.7 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53767,
-            -96.75033
-        ]
-    },
-    "uw62063146": {
-        "title": "M 0.3 - 22 km ENE of Ashford, Washington",
-        "coordinates": [
-            46.852,
-            -121.766
-        ]
-    },
-    "uw62063141": {
-        "title": "M 2.2 Explosion - 13 km SSE of Princeton, Canada",
-        "coordinates": [
-            49.344,
-            -120.467
-        ]
-    },
-    "ok2024xluf": {
-        "title": "M 1.4 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54583,
-            -96.74717
-        ]
-    },
-    "ak024fcnydq5": {
-        "title": "M 1.4 - 15 km NW of Anchor Point, Alaska",
-        "coordinates": [
-            59.8834,
-            -152.007
-        ]
-    },
-    "ok2024xlub": {
-        "title": "M -1.2 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.545,
-            -96.74783
-        ]
-    },
-    "ok2024xltt": {
-        "title": "M 0.3 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5405,
-            -96.75417
-        ]
-    },
-    "nc75092556": {
-        "title": "M 0.8 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.846,
-            -122.82917
-        ]
-    },
-    "nc75092551": {
-        "title": "M 1.5 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.84533,
-            -122.83017
-        ]
-    },
-    "ok2024xlsp": {
-        "title": "M 0.5 - 9 km E of Meeker, Oklahoma",
-        "coordinates": [
-            35.51567,
-            -96.794
-        ]
-    },
-    "nc75092546": {
-        "title": "M 0.8 - 6 km NNW of The Geysers, CA",
-        "coordinates": [
-            38.8165,
-            -122.79733
-        ]
-    },
-    "us7000ny7k": {
-        "title": "M 4.3 - 204 km W of Hihifo, Tonga",
-        "coordinates": [
-            -16.2798,
-            -175.6823
-        ]
-    },
-    "nn00888112": {
-        "title": "M 0.8 - 7 km W of Wadsworth, Nevada",
-        "coordinates": [
-            39.6255,
-            -119.3712
-        ]
-    },
-    "nc75092541": {
-        "title": "M 0.7 - 3 km  of The Geysers, CA",
-        "coordinates": [
-            38.802,
-            -122.76717
-        ]
-    },
-    "tx2024xlse": {
-        "title": "M 1.7 - 8 km E of Falls City, Texas",
-        "coordinates": [
-            28.979,
-            -97.932
-        ]
-    },
-    "av93027654": {
-        "title": "M 0.5 - 66 km WNW of Karluk, Alaska",
-        "coordinates": [
-            57.84517,
-            -155.4485
-        ]
-    },
-    "hv74546387": {
-        "title": "M 1.8 - 13 km S of Fern Forest, Hawaii",
-        "coordinates": [
-            19.34617,
-            -155.14
-        ]
-    },
-    "hv74546382": {
-        "title": "M 2.3 - 14 km S of Fern Forest, Hawaii",
-        "coordinates": [
-            19.33633,
-            -155.13667
-        ]
-    },
-    "ci40990088": {
-        "title": "M 0.7 - 12 km WSW of Searles Valley, CA",
-        "coordinates": [
-            35.71033,
-            -117.51117
-        ]
-    },
-    "uw62063116": {
-        "title": "M 0.8 - 8 km NNE of Government Camp, Oregon",
-        "coordinates": [
-            45.37717,
-            -121.71633
-        ]
-    },
-    "ok2024xlrl": {
-        "title": "M -1.4 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54217,
-            -96.748
-        ]
-    },
-    "ak024fcn6yq7": {
-        "title": "M 1.4 - 34 km W of Cantwell, Alaska",
-        "coordinates": [
-            63.3785,
-            -149.6448
-        ]
-    },
-    "uu80087921": {
-        "title": "M 0.6 - 4 km SW of Hebgen Lake Estates, Montana",
-        "coordinates": [
-            44.74333,
-            -111.22867
-        ]
-    },
-    "us7000nuyl": {
-        "title": "M 4.7 - 184 km SW of Labuan, Indonesia",
-        "coordinates": [
-            -7.7051,
-            104.8176
-        ]
-    },
-    "mb90067263": {
-        "title": "M 0.3 - 17 km S of Whitehall, Montana",
-        "coordinates": [
-            45.71783,
-            -112.12933
-        ]
-    },
-    "uw62063111": {
-        "title": "M 0.5 - 22 km ENE of Ashford, Washington",
-        "coordinates": [
-            46.8525,
-            -121.7645
-        ]
-    },
-    "hv74546352": {
-        "title": "M 1.8 - 14 km S of Fern Forest, Hawaii",
-        "coordinates": [
-            19.338,
-            -155.125
-        ]
-    },
-    "ok2024xlqf": {
-        "title": "M -1.1 - 9 km WNW of Prague, Oklahoma",
-        "coordinates": [
-            35.52267,
-            -96.786
-        ]
-    },
-    "uw62063106": {
-        "title": "M 0.1 - 37 km NNE of Amboy, Washington",
-        "coordinates": [
-            46.19367,
-            -122.188
-        ]
-    },
-    "ci40990048": {
-        "title": "M 0.7 - 4 km ENE of Cabazon, CA",
-        "coordinates": [
-            33.93267,
-            -116.75
-        ]
-    },
-    "av93383638": {
-        "title": "M -0.7 - 66 km WNW of Beluga, Alaska",
-        "coordinates": [
-            61.31017,
-            -152.268
-        ]
-    },
-    "uu80087906": {
-        "title": "M 0.9 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50783,
-            -112.8935
-        ]
-    },
-    "uw62063096": {
-        "title": "M 0.0 - 37 km NNE of Amboy, Washington",
-        "coordinates": [
-            46.1935,
-            -122.1855
-        ]
-    },
-    "av93383628": {
-        "title": "M -0.7 - 65 km WNW of Beluga, Alaska",
-        "coordinates": [
-            61.31167,
-            -152.2485
-        ]
-    },
-    "ok2024xlpk": {
-        "title": "M -1.4 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.55067,
-            -96.74133
-        ]
-    },
-    "uu80087896": {
-        "title": "M 1.2 - 2 km NNW of Kenilworth, Utah",
-        "coordinates": [
-            39.70883,
-            -110.81883
-        ]
-    },
-    "ci40990016": {
-        "title": "M 2.1 - 50 km SSW of Progreso, B.C., MX",
-        "coordinates": [
-            32.16183,
-            -115.7825
-        ]
-    },
-    "tx2024xlon": {
-        "title": "M 1.2 - 9 km SSE of Ackerly, Texas",
-        "coordinates": [
-            32.44,
-            -101.693
-        ]
-    },
-    "nc75092521": {
-        "title": "M 0.7 - 10 km NW of The Geysers, CA",
-        "coordinates": [
-            38.82967,
-            -122.853
-        ]
-    },
-    "uu80002158": {
-        "title": "M 0.6 - 59 km SE of West Yellowstone, Montana",
-        "coordinates": [
-            44.35483,
-            -110.49783
-        ]
-    },
-    "av93383598": {
-        "title": "M 1.4 - 11 km NE of Dutch Harbor, Alaska",
-        "coordinates": [
-            53.96267,
-            -166.42417
-        ]
-    },
-    "nc75092516": {
-        "title": "M 0.7 - 3 km W of Cobb, CA",
-        "coordinates": [
-            38.8215,
-            -122.759
-        ]
-    },
-    "tx2024xloa": {
-        "title": "M 2.7 - 8 km ENE of Falls City, Texas",
-        "coordinates": [
-            29.001,
-            -97.93
-        ]
-    },
-    "nc75092511": {
-        "title": "M 1.2 - 26 km E of Lee Vining, CA",
-        "coordinates": [
-            38.01933,
-            -118.8305
-        ]
-    },
-    "ci40990000": {
-        "title": "M 1.1 - 16 km ENE of Ocotillo, CA",
-        "coordinates": [
-            32.77583,
-            -115.83433
-        ]
-    },
-    "us7000nuxi": {
-        "title": "M 4.2 - 84 km SE of Petropavlovsk-Kamchatsky, Russia",
-        "coordinates": [
-            52.6309,
-            159.6513
-        ]
-    },
-    "hv74546252": {
-        "title": "M 1.7 - 7 km S of Volcano, Hawaii",
-        "coordinates": [
-            19.3795,
-            -155.23717
-        ]
-    },
-    "ci40989992": {
-        "title": "M 0.9 - 10 km NE of Coso Junction, CA",
-        "coordinates": [
-            36.12,
-            -117.8765
-        ]
-    },
-    "nc75092501": {
-        "title": "M 1.8 - 16 km NNW of Pinnacles, CA",
-        "coordinates": [
-            36.6325,
-            -121.26334
-        ]
-    },
-    "ak024fclugra": {
-        "title": "M 1.7 - 37 km W of Cantwell, Alaska",
-        "coordinates": [
-            63.3525,
-            -149.703
-        ]
-    },
-    "ak024fcliwsh": {
-        "title": "M 1.0 - 18 km N of Two Rivers, Alaska",
-        "coordinates": [
-            65.0399,
-            -147.0229
-        ]
-    },
-    "nc75092496": {
-        "title": "M 0.6 - 6 km WNW of Mammoth Lakes, CA",
-        "coordinates": [
-            37.644,
-            -119.0425
-        ]
-    },
-    "ci40989968": {
-        "title": "M 0.6 - 6 km WNW of Aguanga, CA",
-        "coordinates": [
-            33.47217,
-            -116.92233
-        ]
-    },
-    "nn00888111": {
-        "title": "M -0.3 - 46 km ESE of Beatty, Nevada",
-        "coordinates": [
-            36.7488,
-            -116.2834
-        ]
-    },
-    "ak024fclfyng": {
-        "title": "M 0.7 - 29 km ESE of Minto, Alaska",
-        "coordinates": [
-            65.0439,
-            -148.7656
-        ]
-    },
-    "uu80087881": {
-        "title": "M 0.8 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50983,
-            -112.89083
-        ]
-    },
-    "uu80087876": {
-        "title": "M 1.3 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50933,
-            -112.88833
-        ]
-    },
-    "uu80087866": {
-        "title": "M 1.3 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.51033,
-            -112.8925
-        ]
-    },
-    "ci40989952": {
-        "title": "M 0.9 - 4 km SE of Ontario, CA",
-        "coordinates": [
-            34.02767,
-            -117.59217
-        ]
-    },
-    "uu80087861": {
-        "title": "M 1.0 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50767,
-            -112.88667
-        ]
-    },
-    "uu80087856": {
-        "title": "M 1.0 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.5085,
-            -112.8855
-        ]
-    },
-    "nc75092491": {
-        "title": "M 0.7 - 2 km NNE of The Geysers, CA",
-        "coordinates": [
-            38.79783,
-            -122.75083
-        ]
-    },
-    "ci40989944": {
-        "title": "M 0.6 - 23 km WNW of Searles Valley, CA",
-        "coordinates": [
-            35.83133,
-            -117.65033
-        ]
-    },
-    "nc75092486": {
-        "title": "M 0.8 - 7 km NNW of The Geysers, CA",
-        "coordinates": [
-            38.82617,
-            -122.81233
-        ]
-    },
-    "ok2024xlkr": {
-        "title": "M -1.3 - 9 km NNW of Prague, Oklahoma",
-        "coordinates": [
-            35.57217,
-            -96.71383
-        ]
-    },
-    "nn00888110": {
-        "title": "M -0.4 - 44 km E of Beatty, Nevada",
-        "coordinates": [
-            36.8371,
-            -116.2664
-        ]
-    },
-    "ok2024xljz": {
-        "title": "M 1.0 - 1 km NNW of Lambert, Oklahoma",
-        "coordinates": [
-            36.69733,
-            -98.42967
-        ]
-    },
-    "ci40989928": {
-        "title": "M 2.0 - 4 km SE of Delano, CA",
-        "coordinates": [
-            35.73733,
-            -119.21883
-        ]
-    },
-    "ci40989912": {
-        "title": "M 1.0 - 2 km ESE of Lake Henshaw, CA",
-        "coordinates": [
-            33.2335,
-            -116.7385
-        ]
-    },
-    "ci40989896": {
-        "title": "M 0.9 - 16 km ESE of Lake Isabella, CA",
-        "coordinates": [
-            35.54233,
-            -118.3225
-        ]
-    },
-    "uu80087816": {
-        "title": "M 1.1 - 15 km NE of Milford, Utah",
-        "coordinates": [
-            38.50367,
-            -112.88833
-        ]
-    },
-    "ak024fckug7y": {
-        "title": "M 1.2 - 75 km WSW of Cantwell, Alaska",
-        "coordinates": [
-            63.2026,
-            -150.3951
-        ]
-    },
-    "ok2024xljk": {
-        "title": "M -1.7 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.544,
-            -96.74933
-        ]
-    },
-    "us7000nuxc": {
-        "title": "M 2.9 - 132 km NE of Miches, Dominican Republic",
-        "coordinates": [
-            19.8795,
-            -68.2118
-        ]
-    },
-    "ci40989888": {
-        "title": "M 0.7 - 14 km N of Borrego Springs, CA",
-        "coordinates": [
-            33.38117,
-            -116.379
-        ]
-    },
-    "nc75092476": {
-        "title": "M 2.3 - 16 km NNE of Red Bluff, CA",
-        "coordinates": [
-            40.3115,
-            -122.1795
-        ]
-    },
-    "nn00888108": {
-        "title": "M -0.1 - 46 km ESE of Beatty, Nevada",
-        "coordinates": [
-            36.7469,
-            -116.283
-        ]
-    },
-    "av93383503": {
-        "title": "M 1.1 - 47 km SE of Egegik, Alaska",
-        "coordinates": [
-            57.88,
-            -156.87917
-        ]
-    },
-    "nn00888101": {
-        "title": "M 2.0 - 29 km SSW of Mina, Nevada",
-        "coordinates": [
-            38.1457,
-            -118.2288
-        ]
-    },
-    "av93383493": {
-        "title": "M 1.6 - 57 km WSW of Adak, Alaska",
-        "coordinates": [
-            51.70467,
-            -177.425
-        ]
-    },
-    "us7000nux9": {
-        "title": "M 4.4 - 152 km NNE of Bitung, Indonesia",
-        "coordinates": [
-            2.7762,
-            125.4851
-        ]
-    },
-    "nc75092466": {
-        "title": "M 0.9 - 3 km WSW of Anderson Springs, CA",
-        "coordinates": [
-            38.75883,
-            -122.72483
-        ]
-    },
-    "nc75092461": {
-        "title": "M 0.7 - 7 km NW of The Geysers, CA",
-        "coordinates": [
-            38.81033,
-            -122.81834
-        ]
-    },
-    "ak024fckbri7": {
-        "title": "M 1.9 - 46 km SSE of Denali National Park, Alaska",
-        "coordinates": [
-            63.1401,
-            -151.4376
-        ]
-    },
-    "nc75092456": {
-        "title": "M 1.2 - 5 km SW of Gilroy, CA",
-        "coordinates": [
-            36.9635,
-            -121.59667
-        ]
-    },
-    "ok2024xlhr": {
-        "title": "M -1.6 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53733,
-            -96.75483
-        ]
-    },
-    "ak024fcka9il": {
-        "title": "M 2.0 - 30 km E of Pedro Bay, Alaska",
-        "coordinates": [
-            59.7436,
-            -153.5666
-        ]
-    },
-    "ak024fck8sgg": {
-        "title": "M 1.5 - 104 km W of Skwentna, Alaska",
-        "coordinates": [
-            62.1772,
-            -153.3552
-        ]
-    },
-    "ok2024xlhi": {
-        "title": "M -1.5 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54467,
-            -96.7475
-        ]
-    },
-    "uu80087811": {
-        "title": "M 0.6 - 15 km SW of Thatcher, Utah",
-        "coordinates": [
-            41.59,
-            -112.41183
-        ]
-    },
-    "us7000ny7i": {
-        "title": "M 4.5 - 161 km WSW of Hihifo, Tonga",
-        "coordinates": [
-            -16.3394,
-            -175.2557
-        ]
-    },
-    "ok2024xlgy": {
-        "title": "M -1.6 - 9 km NNW of Prague, Oklahoma",
-        "coordinates": [
-            35.56367,
-            -96.7225
-        ]
-    },
-    "pr71467188": {
-        "title": "M 2.1 - 1 km NW of Indios, Puerto Rico",
-        "coordinates": [
-            18.00383,
-            -66.8295
-        ]
-    },
-    "ak024fck4k1i": {
-        "title": "M 1.0 - 23 km NW of Fishhook, Alaska",
-        "coordinates": [
-            61.863,
-            -149.6035
-        ]
-    },
-    "ci40989880": {
-        "title": "M 0.8 - 25 km SW of Ocotillo Wells, CA",
-        "coordinates": [
-            32.985,
-            -116.3205
-        ]
-    },
-    "ok2024xlgr": {
-        "title": "M -1.5 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54333,
-            -96.74567
-        ]
-    },
-    "nc75092451": {
-        "title": "M 1.4 - 5 km SSW of San Ramon, CA",
-        "coordinates": [
-            37.73383,
-            -121.989
-        ]
-    },
-    "mb90067428": {
-        "title": "M 0.5 - 40 km NE of Spencer, Idaho",
-        "coordinates": [
-            44.66017,
-            -111.894
-        ]
-    },
-    "ci40989872": {
-        "title": "M 0.9 - 18 km SW of Olancha, CA",
-        "coordinates": [
-            36.18417,
-            -118.15967
-        ]
-    },
-    "ci40989864": {
-        "title": "M 0.9 - 7 km N of Anza, CA",
-        "coordinates": [
-            33.621,
-            -116.6695
-        ]
-    },
-    "av93383438": {
-        "title": "M -0.1 - 60 km WNW of Tyonek, Alaska",
-        "coordinates": [
-            61.26317,
-            -152.1945
-        ]
-    },
-    "uu80087786": {
-        "title": "M 0.4 - 16 km E of Hebgen Lake Estates, Montana",
-        "coordinates": [
-            44.78133,
-            -110.98867
-        ]
-    },
-    "nm60502798": {
-        "title": "M 1.4 - 3 km NE of Ridgely, Tennessee",
-        "coordinates": [
-            36.28517,
-            -89.46683
-        ]
-    },
-    "ak024fcjkmr9": {
-        "title": "M 1.0 - 26 km NNW of Four Mile Road, Alaska",
-        "coordinates": [
-            64.8383,
-            -149.2498
-        ]
-    },
-    "ok2024xlez": {
-        "title": "M -1.9 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54533,
-            -96.75117
-        ]
-    },
-    "av93383433": {
-        "title": "M -0.4 - 62 km ENE of Pedro Bay, Alaska",
-        "coordinates": [
-            60.0395,
-            -153.109
-        ]
-    },
-    "ok2024xleq": {
-        "title": "M -0.6 - 8 km SE of Sparks, Oklahoma",
-        "coordinates": [
-            35.553,
-            -96.75367
-        ]
-    },
-    "ci40989856": {
-        "title": "M 1.1 - 6 km N of Westmorland, CA",
-        "coordinates": [
-            33.09483,
-            -115.60817
-        ]
-    },
-    "ak024fcjhl15": {
-        "title": "M 1.4 - 52 km WNW of Anchor Point, Alaska",
-        "coordinates": [
-            59.9253,
-            -152.7145
-        ]
-    },
-    "nc75092446": {
-        "title": "M 1.0 - 6 km WNW of Cobb, CA",
-        "coordinates": [
-            38.83183,
-            -122.79183
-        ]
-    },
-    "ok2024xlem": {
-        "title": "M -1.6 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54567,
-            -96.745
-        ]
-    },
-    "ok2024xlel": {
-        "title": "M -2.1 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54667,
-            -96.74983
-        ]
-    },
-    "uu80087766": {
-        "title": "M 1.3 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50567,
-            -112.8855
-        ]
-    },
-    "hv74546017": {
-        "title": "M 1.6 - 6 km WSW of Volcano, Hawaii",
-        "coordinates": [
-            19.41017,
-            -155.28817
-        ]
-    },
-    "hv74546012": {
-        "title": "M 1.7 - 6 km WSW of Volcano, Hawaii",
-        "coordinates": [
-            19.41083,
-            -155.28467
-        ]
-    },
-    "hv74546007": {
-        "title": "M 1.6 - 7 km WSW of Volcano, Hawaii",
-        "coordinates": [
-            19.40783,
-            -155.2905
-        ]
-    },
-    "ci40989848": {
-        "title": "M 1.4 - 18 km N of Borrego Springs, CA",
-        "coordinates": [
-            33.41967,
-            -116.38417
-        ]
-    },
-    "ok2024xlds": {
-        "title": "M -1.8 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54333,
-            -96.751
-        ]
-    },
-    "ci40989840": {
-        "title": "M 0.7 - 2 km ESE of Lake Henshaw, CA",
-        "coordinates": [
-            33.23567,
-            -116.73833
-        ]
-    },
-    "ci40989832": {
-        "title": "M 0.7 - 4 km NNW of Fontana, CA",
-        "coordinates": [
-            34.13483,
-            -117.47383
-        ]
-    },
-    "pr71467183": {
-        "title": "M 2.2 - 2 km E of Cayey, Puerto Rico",
-        "coordinates": [
-            18.109,
-            -66.14417
-        ]
-    },
-    "ok2024xldm": {
-        "title": "M -2.0 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54217,
-            -96.75283
-        ]
-    },
-    "ci40989824": {
-        "title": "M 0.7 - 6 km SE of Valle Vista, CA",
-        "coordinates": [
-            33.7165,
-            -116.83817
-        ]
-    },
-    "nm60502793": {
-        "title": "M 1.7 - 6 km SSE of Ridgely, Tennessee",
-        "coordinates": [
-            36.21033,
-            -89.47167
-        ]
-    },
-    "av93383403": {
-        "title": "M 0.0 - 85 km NW of Karluk, Alaska",
-        "coordinates": [
-            58.1665,
-            -155.36683
-        ]
-    },
-    "uu80002143": {
-        "title": "M -0.9 - 17 km E of Hebgen Lake Estates, Montana",
-        "coordinates": [
-            44.794,
-            -110.9775
-        ]
-    },
-    "ok2024xldh": {
-        "title": "M 0.5 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54367,
-            -96.74617
-        ]
-    },
-    "ok2024xldg": {
-        "title": "M -1.5 - 9 km NNW of Prague, Oklahoma",
-        "coordinates": [
-            35.561,
-            -96.72733
-        ]
-    },
-    "ok2024xlda": {
-        "title": "M -1.7 - 7 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.535,
-            -96.7485
-        ]
-    },
-    "uu80087746": {
-        "title": "M 1.0 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.50567,
-            -112.88333
-        ]
-    },
-    "uw62063076": {
-        "title": "M 0.4 - 12 km SE of Desert Aire, Washington",
-        "coordinates": [
-            46.6,
-            -119.79817
-        ]
-    },
-    "tx2024xlcu": {
-        "title": "M 1.5 - 60 km S of Whites City, New Mexico",
-        "coordinates": [
-            31.637,
-            -104.489
-        ]
-    },
-    "av93027644": {
-        "title": "M 0.4 - 64 km NE of Nikolski, Alaska",
-        "coordinates": [
-            53.365,
-            -168.2075
-        ]
-    },
-    "tx2024xlcs": {
-        "title": "M 1.7 - 57 km S of Whites City, New Mexico",
-        "coordinates": [
-            31.659,
-            -104.471
-        ]
-    },
-    "ci40989808": {
-        "title": "M 1.1 - 4 km NNE of Palomar Observatory, CA",
-        "coordinates": [
-            33.38383,
-            -116.84483
-        ]
-    },
-    "ak024fciv4zf": {
-        "title": "M 1.4 - 13 km SSW of Anchorage, Alaska",
-        "coordinates": [
-            61.1048,
-            -150.002
-        ]
-    },
-    "ci40989800": {
-        "title": "M 0.9 - 18 km ENE of Little Lake, CA",
-        "coordinates": [
-            36.023,
-            -117.73517
-        ]
-    },
-    "nc75092436": {
-        "title": "M 0.4 - 4 km  of The Geysers, CA",
-        "coordinates": [
-            38.80917,
-            -122.77233
-        ]
-    },
-    "us7000nuvw": {
-        "title": "M 2.7 - 6 km N of Smiths Ferry, Idaho",
-        "coordinates": [
-            44.3606,
-            -116.079
-        ]
-    },
-    "uw62063061": {
-        "title": "M -0.1 - 37 km NNE of Amboy, Washington",
-        "coordinates": [
-            46.1955,
-            -122.18283
-        ]
-    },
-    "us7000ny7a": {
-        "title": "M 4.2 - 94 km SSW of Buala, Solomon Islands",
-        "coordinates": [
-            -8.9112,
-            159.212
-        ]
-    },
-    "uu80087721": {
-        "title": "M 0.7 - 16 km NE of Milford, Utah",
-        "coordinates": [
-            38.506,
-            -112.88017
-        ]
-    },
-    "ok2024xlbv": {
-        "title": "M -1.1 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54467,
-            -96.751
-        ]
-    },
-    "ok2024xlbr": {
-        "title": "M -0.6 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.545,
-            -96.75
-        ]
-    },
-    "ak024fcihm8x": {
-        "title": "M 1.4 - 20 km ESE of Susitna North, Alaska",
-        "coordinates": [
-            62.1027,
-            -149.4797
-        ]
-    },
-    "mb90067258": {
-        "title": "M 0.8 - 2 km SSE of Lima, Montana",
-        "coordinates": [
-            44.61317,
-            -112.5835
-        ]
-    },
-    "nc75092431": {
-        "title": "M 0.6 - 9 km NW of The Geysers, CA",
-        "coordinates": [
-            38.819,
-            -122.85167
-        ]
-    },
-    "ok2024xlbo": {
-        "title": "M -0.7 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54517,
-            -96.75017
-        ]
-    },
-    "ok2024xlbl": {
-        "title": "M -1.5 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5445,
-            -96.749
-        ]
-    },
-    "ak024fcig342": {
-        "title": "M 3.1 - 101 km N of Arctic Village, Alaska",
-        "coordinates": [
-            69.0359,
-            -145.6074
-        ]
-    },
-    "ok2024xlbj": {
-        "title": "M 0.9 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54417,
-            -96.74567
-        ]
-    },
-    "nc75092426": {
-        "title": "M 1.0 - 7 km NNW of The Geysers, CA",
-        "coordinates": [
-            38.82,
-            -122.8095
-        ]
-    },
-    "mb90067363": {
-        "title": "M 0.5 - 10 km ENE of Condon, Montana",
-        "coordinates": [
-            47.56133,
-            -113.581
-        ]
-    },
-    "us7000ny7c": {
-        "title": "M 4.5 - South Sandwich Islands region",
-        "coordinates": [
-            -57.1291,
-            -30.029
-        ]
-    },
-    "nc75092421": {
-        "title": "M 0.2 - 6 km WNW of Cobb, CA",
-        "coordinates": [
-            38.83283,
-            -122.79234
-        ]
-    },
-    "ci40989792": {
-        "title": "M 0.7 - 20 km ENE of Arvin, CA",
-        "coordinates": [
-            35.29667,
-            -118.62933
-        ]
-    },
-    "ok2024xlau": {
-        "title": "M -1.5 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54417,
-            -96.748
-        ]
-    },
-    "nc75092411": {
-        "title": "M 0.7 - 13 km E of Cloverdale, CA",
-        "coordinates": [
-            38.8475,
-            -122.8795
-        ]
-    },
-    "ok2024xlas": {
-        "title": "M -0.2 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.539,
-            -96.75933
-        ]
-    },
-    "nc75092406": {
-        "title": "M 1.1 - 3 km SE of The Geysers, CA",
-        "coordinates": [
-            38.75817,
-            -122.72567
-        ]
-    },
-    "ok2024xlaq": {
-        "title": "M -1.9 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53917,
-            -96.75667
-        ]
-    },
-    "uw62063056": {
-        "title": "M 0.6 - 2 km SE of Buckley, Washington",
-        "coordinates": [
-            47.15217,
-            -122.00467
-        ]
-    },
-    "uw62063051": {
-        "title": "M -0.1 - 8 km NNE of Government Camp, Oregon",
-        "coordinates": [
-            45.3695,
-            -121.69833
-        ]
-    },
-    "ci40989784": {
-        "title": "M 0.9 - 0 km W of Borrego Springs, CA",
-        "coordinates": [
-            33.25517,
-            -116.37967
-        ]
-    },
-    "ok2024xkzr": {
-        "title": "M -1.9 - 9 km NNW of Prague, Oklahoma",
-        "coordinates": [
-            35.56667,
-            -96.72383
-        ]
-    },
-    "ak024fchw08e": {
-        "title": "M 2.4 - 50 km NNW of Chickaloon, Alaska",
-        "coordinates": [
-            62.2375,
-            -148.6858
-        ]
-    },
-    "ok2024xkzo": {
-        "title": "M -1.5 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54583,
-            -96.75017
-        ]
-    },
-    "nc75092401": {
-        "title": "M 1.0 - 7 km NNW of The Geysers, CA",
-        "coordinates": [
-            38.82283,
-            -122.80634
-        ]
-    },
-    "nc75092396": {
-        "title": "M 0.7 - 2 km SSE of Angwin, CA",
-        "coordinates": [
-            38.55533,
-            -122.4385
-        ]
-    },
-    "hv74545932": {
-        "title": "M 2.2 - 45 km ESE of Naalehu, Hawaii",
-        "coordinates": [
-            18.87883,
-            -155.19833
-        ]
-    },
-    "av93383323": {
-        "title": "M -0.7 - 65 km WNW of Beluga, Alaska",
-        "coordinates": [
-            61.30683,
-            -152.247
-        ]
-    },
-    "ok2024xkyu": {
-        "title": "M -1.5 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54433,
-            -96.74633
-        ]
-    },
-    "nc75092386": {
-        "title": "M 0.7 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.8425,
-            -122.83417
-        ]
-    },
-    "nc75092381": {
-        "title": "M 0.7 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.8425,
-            -122.834
-        ]
-    },
-    "ok2024xkyq": {
-        "title": "M -1.6 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5445,
-            -96.74883
-        ]
-    },
-    "hv74545922": {
-        "title": "M 2.4 - 7 km SSE of Pāhala, Hawaii",
-        "coordinates": [
-            19.144,
-            -155.442
-        ]
-    },
-    "ok2024xkyk": {
-        "title": "M -1.7 - 8 km NNW of Prague, Oklahoma",
-        "coordinates": [
-            35.55583,
-            -96.72883
-        ]
-    },
-    "nc75092371": {
-        "title": "M 0.7 - 6 km WNW of Cobb, CA",
-        "coordinates": [
-            38.82717,
-            -122.794
-        ]
-    },
-    "ok2024xkyd": {
-        "title": "M -1.6 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54433,
-            -96.75117
-        ]
-    },
-    "ok2024xkyc": {
-        "title": "M -2.0 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53883,
-            -96.75667
-        ]
-    },
-    "ok2024xkyb": {
-        "title": "M 0.5 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5405,
-            -96.748
-        ]
-    },
-    "ok2024xkya": {
-        "title": "M 0.4 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54317,
-            -96.7455
-        ]
-    },
-    "ok2024xkxz": {
-        "title": "M -0.6 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54467,
-            -96.75217
-        ]
-    },
-    "nc75092361": {
-        "title": "M 0.7 - 5 km NW of The Geysers, CA",
-        "coordinates": [
-            38.80083,
-            -122.80766
-        ]
-    },
-    "ok2024xkxv": {
-        "title": "M -1.7 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5455,
-            -96.74667
-        ]
-    },
-    "ok2024xkxr": {
-        "title": "M -0.5 - 9 km NNW of Prague, Oklahoma",
-        "coordinates": [
-            35.56183,
-            -96.7285
-        ]
-    },
-    "ok2024xkxp": {
-        "title": "M -1.5 - 9 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54567,
-            -96.755
-        ]
-    },
-    "ok2024xkxo": {
-        "title": "M -1.8 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54617,
-            -96.745
-        ]
-    },
-    "ok2024xkxm": {
-        "title": "M -1.3 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54217,
-            -96.752
-        ]
-    },
-    "ok2024xkxl": {
-        "title": "M -0.3 - 9 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54833,
-            -96.75083
-        ]
-    },
-    "ok2024xkxj": {
-        "title": "M 1.0 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5435,
-            -96.74283
-        ]
-    },
-    "ok2024xkxk": {
-        "title": "M -1.8 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53917,
-            -96.75683
-        ]
-    },
-    "ok2024xkxi": {
-        "title": "M -2.1 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54533,
-            -96.74633
-        ]
-    },
-    "ok2024xkxh": {
-        "title": "M -2.0 - 7 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.5305,
-            -96.7485
-        ]
-    },
-    "ok2024xkxg": {
-        "title": "M -1.9 - 7 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.541,
-            -96.74167
-        ]
-    },
-    "ok2024xkxf": {
-        "title": "M -1.9 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.532,
-            -96.76183
-        ]
-    },
-    "nc75092356": {
-        "title": "M 1.0 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.84367,
-            -122.83117
-        ]
-    },
-    "nc75092351": {
-        "title": "M 1.3 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.84267,
-            -122.83167
-        ]
-    },
-    "ok2024xkxd": {
-        "title": "M -1.9 - 8 km NNW of Prague, Oklahoma",
-        "coordinates": [
-            35.55267,
-            -96.73517
-        ]
-    },
-    "ci40989776": {
-        "title": "M 0.9 - 13 km S of Borrego Springs, CA",
-        "coordinates": [
-            33.1425,
-            -116.3825
-        ]
-    },
-    "nc75092346": {
-        "title": "M 1.3 - 12 km NNE of Dixon Lane-Meadow Creek, CA",
-        "coordinates": [
-            37.48967,
-            -118.36733
-        ]
-    },
-    "nc75092341": {
-        "title": "M 1.1 - 10 km WNW of Cobb, CA",
-        "coordinates": [
-            38.844,
-            -122.83067
-        ]
-    },
-    "ok2024xkwx": {
-        "title": "M 1.6 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.546,
-            -96.75117
-        ]
-    },
-    "ok2024xkww": {
-        "title": "M 3.3 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54767,
-            -96.74317
-        ]
-    },
-    "ci40989768": {
-        "title": "M 0.7 - 10 km SE of Valle Vista, CA",
-        "coordinates": [
-            33.6805,
-            -116.8195
-        ]
-    },
-    "nc75092336": {
-        "title": "M 0.4 - 2 km N of The Geysers, CA",
-        "coordinates": [
-            38.79817,
-            -122.76117
-        ]
-    },
-    "nn00888098": {
-        "title": "M -0.1 - 49 km ESE of Beatty, Nevada",
-        "coordinates": [
-            36.7058,
-            -116.2674
-        ]
-    },
-    "nc75092331": {
-        "title": "M 1.2 - 5 km WNW of San Juan Bautista, CA",
-        "coordinates": [
-            36.853,
-            -121.59467
-        ]
-    },
-    "us7000nuvk": {
-        "title": "M 4.3 - 45 km SSW of Dompu, Indonesia",
-        "coordinates": [
-            -8.925,
-            118.3338
-        ]
-    },
-    "ok2024xkvt": {
-        "title": "M -1.2 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.54633,
-            -96.74883
-        ]
-    },
-    "ci40989752": {
-        "title": "M 1.3 - 14 km ENE of Ridgecrest, CA",
-        "coordinates": [
-            35.6775,
-            -117.539
-        ]
-    },
-    "ci40989744": {
-        "title": "M 0.3 - 7 km NW of Aguanga, CA",
-        "coordinates": [
-            33.48583,
-            -116.9265
-        ]
-    },
-    "tx2024xkvg": {
-        "title": "M 1.4 - 9 km SW of Forsan, Texas",
-        "coordinates": [
-            32.063,
-            -101.446
-        ]
-    },
-    "ak024fcglvl1": {
-        "title": "M 2.4 - 68 km ENE of Ouzinkie, Alaska",
-        "coordinates": [
-            58.2486,
-            -151.5154
-        ]
-    },
-    "ok2024xkuc": {
-        "title": "M -1.4 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53483,
-            -96.7525
-        ]
-    },
-    "us7000nuvg": {
-        "title": "M 4.3 - 60 km SSE of Muncar, Indonesia",
-        "coordinates": [
-            -8.924,
-            114.5842
-        ]
-    },
-    "av93383213": {
-        "title": "M 0.2 - 85 km NW of Karluk, Alaska",
-        "coordinates": [
-            58.16583,
-            -155.35683
-        ]
-    },
-    "us7000ny79": {
-        "title": "M 4.7 - South Indian Ocean",
-        "coordinates": [
-            -7.6144,
-            88.7646
-        ]
-    },
-    "ci40989736": {
-        "title": "M 0.8 - 12 km ESE of Cabazon, CA",
-        "coordinates": [
-            33.8765,
-            -116.67267
-        ]
-    },
-    "ci40989728": {
-        "title": "M 0.7 - 15 km SW of Searles Valley, CA",
-        "coordinates": [
-            35.6585,
-            -117.49667
-        ]
-    },
-    "ci37690684": {
-        "title": "M 0.5 - 23 km ESE of Little Lake, CA",
-        "coordinates": [
-            35.85333,
-            -117.672
-        ]
-    },
-    "hv74545772": {
-        "title": "M 2.0 - 3 km SSW of Pāhala, Hawaii",
-        "coordinates": [
-            19.16983,
-            -155.48784
-        ]
-    },
-    "ci40989720": {
-        "title": "M 1.1 - 7 km S of Mentone, CA",
-        "coordinates": [
-            34.00817,
-            -117.1335
-        ]
-    },
-    "ak024fcfwccz": {
-        "title": "M 2.5 - 52 km ENE of Pedro Bay, Alaska",
-        "coordinates": [
-            59.9349,
-            -153.2089
-        ]
-    },
-    "ci40989712": {
-        "title": "M 0.7 - 4 km N of San Jacinto, CA",
-        "coordinates": [
-            33.822,
-            -116.958
-        ]
-    },
-    "ci40989704": {
-        "title": "M 1.0 - 4 km WSW of Redlands, CA",
-        "coordinates": [
-            34.04717,
-            -117.22033
-        ]
-    },
-    "nc75092321": {
-        "title": "M 1.1 - 2 km NW of The Geysers, CA",
-        "coordinates": [
-            38.79133,
-            -122.77533
-        ]
-    },
-    "ak024fcfkzdq": {
-        "title": "M 1.0 - 49 km NNE of Chitina, Alaska",
-        "coordinates": [
-            61.9194,
-            -144.0604
-        ]
-    },
-    "ok2024xkry": {
-        "title": "M 0.5 - 7 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53767,
-            -96.74567
-        ]
-    },
-    "ok2024xkrw": {
-        "title": "M -0.9 - 8 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53717,
-            -96.74933
-        ]
-    },
-    "ok2024xkrx": {
-        "title": "M -1.1 - 7 km NW of Prague, Oklahoma",
-        "coordinates": [
-            35.53533,
-            -96.75
-        ]
-    },
-    "nm60502783": {
-        "title": "M 2.0 - 1 km SE of Fairview Park, Indiana",
-        "coordinates": [
-            39.6735,
-            -87.406
-        ]
-    },
-    "ak024fcfftzd": {
-        "title": "M 1.4 - 60 km SSE of Cantwell, Alaska",
-        "coordinates": [
-            62.8667,
-            -148.6342
-        ]
-    },
-    "uu80002138": {
-        "title": "M -0.3 - 18 km ENE of Hebgen Lake Estates, Montana",
-        "coordinates": [
-            44.808,
-            -110.96667
-        ]
-    },
-    "ci40989696": {
-        "title": "M 0.9 - 2 km SE of Loma Linda, CA",
-        "coordinates": [
-            34.03483,
-            -117.23967
-        ]
-    },
-    "nc75092316": {
-        "title": "M 0.2 - 7 km WNW of Cobb, CA",
-        "coordinates": [
-            38.83533,
-            -122.8055
-        ]
-    },
-    "us7000nuv8": {
-        "title": "M 4.4 - 296 km WNW of Houma, Tonga",
-        "coordinates": [
-            -20.4659,
-            -178.0542
         ]
     }
 }
