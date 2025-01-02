@@ -13,7 +13,7 @@ def check_dotenv():
     return os.path.isfile(dotenv_file)
 
 
-if __name__ == "__main__":
+def check_dotenv_presence():
     if check_dotenv():
         logging.info(".env is present, running program with variables present in .env file...")
     else:

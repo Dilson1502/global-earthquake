@@ -5,9 +5,14 @@ import os
 from typing import Any, Dict, Union, List, Tuple
 from dotenv import load_dotenv
 
+from src.transformations.check_dotenv import check_dotenv_presence
+
 
 # Load environment variable from .env file if present.
 load_dotenv()
+
+# Check dotenv
+check_dotenv_presence()
 
 # Get API URL
 API_URL = os.getenv("API_URL")

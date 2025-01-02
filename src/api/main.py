@@ -26,13 +26,43 @@ async def read_root():
     html_content = f"""
     <html>
         <head>
-            <title>Home</title>
+            <title>Earthquake API</title>
+            <style>
+                body {{
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    height: 100vh;
+                    margin: 0;
+                    font-family: Arial, sans-serif;
+                    background-color: #f0f8ff;
+                    color: #333;
+                    text-align: center;
+                }}
+                h1 {{
+                    font-size: 2.5em;
+                    margin-bottom: 0.5em;
+                }}
+                p {{
+                    font-size: 1.2em;
+                    margin: 0.5em 0;
+                }}
+                a {{
+                    color: #007bff;
+                    text-decoration: none;
+                }}
+                a:hover {{
+                    text-decoration: underline;
+                }}
+            </style>
         </head>
         <body>
-            <h1>Welcome to the Earthquake API!</h1>
-            <p>Creator: Dilson Castro</p>
-            <p>Current Date and Time: {current_datetime}</p>
-            <p>To find earthquakes near you, please navigate to <a href="/static/index.html">This Link</a>.</p>
+            <div>
+                <h1>Welcome to the Earthquake API!</h1>
+                <p>Creator: Dilson Castro</p>
+                <p>Current Date and Time: {current_datetime}</p>
+                <p>To find earthquakes near you, please navigate to <a href="/static/index.html">this link</a>.</p>
+            </div>
         </body>
     </html>
     """
