@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "global_earthquake"
+version = "0.1.0"
+homepage = "https://github.com/Dilson1502/global-earthquake"
+description = "Get information about most recent earthquakes worldwide."
+authors = [{ name = "Dilson Castro", email = "dilson1502@gmail.com" }]
+keywords = ["earthquake", "global", "information"]
+readme = "README.md"
+
+[tool.setuptools]
+include-package-data = true
+package-dir = {"" = "src"}
+
+
+[tool.setuptools.dynamic.optional-dependencies]
+devel = {file = ["requirements-devel.txt"]}

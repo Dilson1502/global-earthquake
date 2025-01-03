@@ -16,6 +16,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Set up env variables
+        env:
+          API_URL: ${{ vars.API_URL }}
+        run: echo "The URL is $API_URL"
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -26,13 +31,24 @@ jobs:
           python -m  pip install --upgrade pip
           pip install -r requirements-devel.txt
 
-      - name: Run script
+      - name: Generate summary earthquake json
         run: python -m src.transformations.generate_json_output
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update earthquake summary
+          commit_user_name: Dilson Castro [GitHub Actions]
+          commit_user_email: orlanescas@hotmail.com
+          commit_author: dilson1502 <orlanescas@hotmail.com>
+
+      - name: Generate dependencies json
+        run: pipdeptree --json-tree > dependencies.json
+
+      - name: Commit and Push dependencies json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update dependencies summary
           commit_user_name: Dilson Castro [GitHub Actions]
           commit_user_email: orlanescas@hotmail.com
           commit_author: dilson1502 <orlanescas@hotmail.com>

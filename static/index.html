@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Nearest Earthquakes</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(to right, #e3f2fd, #bbdefb);
+            color: #333;
+        }
+
+        .container {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #007BFF;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+            text-align: left;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        input {
+            padding: 12px;
+            width: 100%;
+            border: 2px solid #007BFF;
+            border-radius: 5px;
+            box-sizing: border-box;
+            transition: border-color 0.3s;
+        }
+
+        input:focus {
+            border-color: #0056b3;
+            outline: none;
+        }
+
+        button {
+            padding: 12px 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        #results {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            text-align: left;
+            max-height: 200px;
+            overflow-y: auto;
+        }
+
+        #results ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #results li {
+            padding: 5px 0;
+            border-bottom: 1px solid #ddd;
+        }
+
+        #results li:last-child {
+            border-bottom: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Find Nearest Earthquakes</h1>
+        <div class="form-group">
+            <label for="latitude">Latitude:</label>
+            <input type="number" id="latitude" step="any" placeholder="Enter latitude" required>
+        </div>
+        <div class="form-group">
+            <label for="longitude">Longitude:</label>
+            <input type="number" id="longitude" step="any" placeholder="Enter longitude" required>
+        </div>
+        <button id="findEarthquakes">Find Earthquakes</button>
+
+        <div id="results"></div>
+    </div>
+
+    <script>
+        document.getElementById('findEarthquakes').onclick = function() {
+            const lat = parseFloat(document.getElementById('latitude').value);
+            const lon = parseFloat(document.getElementById('longitude').value);
+
+            if (isNaN(lat) || isNaN(lon)) {
+                alert('Please enter valid latitude and longitude values.');
+                return;
+            }
+
+            fetch(`http://localhost:5005/earthquakes/near-me?lat=${lat}&lon=${lon}`)
+                .then(response => response.json())
+                .then(data => {
+                    const resultsDiv = document.getElementById('results');
+                    resultsDiv.innerHTML = '';
+
+                    if (data.earthquakes.error) {
+                        resultsDiv.innerHTML = `<p>${data.earthquakes.error}</p>`;
+                    } else {
+                        const earthquakes = data.earthquakes;
+                        if (Object.keys(earthquakes).length === 0) {
+                            resultsDiv.innerHTML = '<p>No earthquakes found near this location.</p>';
+                        } else {
+                            let html = '<h2>Nearest Earthquakes:</h2><ul>';
+                            for (const [title, distance] of Object.entries(earthquakes)) {
+                                html += `<li>${title}: ${distance} km away</li>`;
+                            }
+                            html += '</ul>';
+                            resultsDiv.innerHTML = html;
+                        }
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    document.getElementById('results').innerHTML = '<p>Error fetching data. Please try again later.</p>';
+                });
+        };
+    </script>
+</body>
+</html>
