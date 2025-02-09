@@ -6,10 +6,9 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 
 def check_dotenv():
-    # Define the name of the .env file
-    dotenv_file = '.env'
+    """Validate if any .env file is present."""
 
-    # Check if the .env file exists in the current directory
+    dotenv_file = '.env'
     return os.path.isfile(dotenv_file)
 
 

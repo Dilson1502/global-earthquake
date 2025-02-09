@@ -14,3 +14,7 @@ def leer_coordenadas_usuario() -> tuple:
             print(f"""{err}: You must enter a float, decimal values with dots instead of commas.""")
         else:
             return (user_lat, user_lon)
+        
+if __name__ == "__main__":
+    """Drive program."""
+    user_lat, user_long = leer_coordenadas_usuario()

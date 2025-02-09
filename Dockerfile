@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 5005
 
-CMD CMD ["uvicorn", "src.api.main:app", "--host", "0.0.0.0", "--port", "5005", "--reload"]
+CMD ["uvicorn", "src.api.main:app", "--host", "0.0.0.0", "--port", "5005", "--reload"]
