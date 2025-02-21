@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -98,6 +99,7 @@
         }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1>Find Nearest Earthquakes</h1>
@@ -109,6 +111,10 @@
             <label for="longitude">Longitude:</label>
             <input type="number" id="longitude" step="any" placeholder="Enter longitude" required>
         </div>
+        <div class="form-group">
+            <label for="numEarthquakes">Number of Earthquakes:</label>
+            <input type="number" id="numEarthquakes" value="10" min="1" placeholder="Enter number of earthquakes">
+        </div>
         <button id="findEarthquakes">Find Earthquakes</button>
 
         <div id="results"></div>
@@ -118,13 +124,14 @@
         document.getElementById('findEarthquakes').onclick = function() {
             const lat = parseFloat(document.getElementById('latitude').value);
             const lon = parseFloat(document.getElementById('longitude').value);
+            const numEarthquakes = parseInt(document.getElementById('numEarthquakes').value);
 
-            if (isNaN(lat) || isNaN(lon)) {
-                alert('Please enter valid latitude and longitude values.');
+            if (isNaN(lat) || isNaN(lon) || isNaN(numEarthquakes) || numEarthquakes < 1) {
+                alert('Please enter valid latitude, longitude, and a positive number of earthquakes.');
                 return;
             }
 
-            fetch(`http://localhost:5005/earthquakes/near-me?lat=${lat}&lon=${lon}`)
+            fetch(`http://localhost:5005/earthquakes/near-me?lat=${lat}&lon=${lon}&num_earthquakes=${numEarthquakes}`)
                 .then(response => response.json())
                 .then(data => {
                     const resultsDiv = document.getElementById('results');
@@ -153,4 +160,5 @@
         };
     </script>
 </body>
+
 </html>

@@ -1,3 +1,18 @@
+# file 3 (main.py)
+import os
+import sys
+from dotenv import load_dotenv
+
+# Load environment variable from .env file if present.
+load_dotenv()
+
+# Get API URL
+TOP_LEVEL_DIRECTORY = os.getenv("DIRECTORY_PATH")
+
+if TOP_LEVEL_DIRECTORY:
+    sys.path.append(TOP_LEVEL_DIRECTORY)
+
+
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
@@ -70,18 +85,20 @@ async def read_root():
 
 
 @app.get("/earthquakes/near-me")
-async def nearest_earthquakes(lat: float, lon: float) -> Dict:
+async def nearest_earthquakes(lat: float, lon: float, num_earthquakes: int = 10) -> Dict:
     """Get top n earthquakes near to an entered location.
 
     Args:
         lat (float): input latitude.
         lon (float): input longitude.
+        num_earthquakes (int): Number of earthquakes to return.
 
     Returns:
         Dict: nearest earthquakes in json format.
     """
-    earthquakes = top_n_nearest_earthquakes(input_lat=lat, input_lon=lon)
+    earthquakes = top_n_nearest_earthquakes(input_lat=lat, input_lon=lon, number_of_earthquakes=num_earthquakes)
     return {"earthquakes": earthquakes}
+
 
 if __name__ == "__main__":
     import uvicorn

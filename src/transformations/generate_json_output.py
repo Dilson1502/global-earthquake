@@ -5,10 +5,10 @@ import os
 
 
 def extract_earthquake_title_and_coordinates() -> Union[Dict[str, Dict[str, Tuple[float, float]]], Dict[str, str]]:
-    """_summary_
+    """Extract earthquake title and coordinates based on json response from public API.
 
     Returns:
-        Union[Dict[str, Dict[str, Tuple[float, float]]], Dict[str, str]]: _description_
+        Union[Dict[str, Dict[str, Tuple[float, float]]], Dict[str, str]]: public earthquake API json results.
     """
     call_earthquake_api = api_response()
     if not call_earthquake_api:
