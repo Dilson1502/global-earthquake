@@ -285,7 +285,7 @@
             {
                 "key": "pip",
                 "package_name": "pip",
-                "installed_version": "25.0.1",
+                "installed_version": "25.1.1",
                 "required_version": ">=24.2",
                 "dependencies": []
             }
